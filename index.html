@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Home — Eric Morris Acting System</title>
+<style>
+:root {
+    --bg: #fafaf9; --text: #1c1917; --muted: #78716c;
+    --border: #e7e5e4; --card: #ffffff; --accent: #b45309;
+    --accent-light: #fef3c7; --link: #92400e;
+    --serif: 'Georgia', 'Times New Roman', serif;
+    --sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--sans); background: var(--bg); color: var(--text);
+       line-height: 1.7; max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem; }
+h1 { font-family: var(--serif); font-size: 2.2rem; font-weight: 700;
+     color: var(--accent); margin-bottom: 0.5rem; letter-spacing: -0.02em; }
+h2 { font-family: var(--serif); font-size: 1.5rem; color: var(--text);
+     margin: 2rem 0 0.75rem; border-bottom: 2px solid var(--accent-light); padding-bottom: 0.3rem; }
+h3 { font-size: 1.1rem; color: var(--muted); margin: 1.5rem 0 0.5rem; text-transform: uppercase;
+     letter-spacing: 0.05em; font-weight: 600; }
+p { margin-bottom: 0.75rem; }
+a { color: var(--link); text-decoration: none; border-bottom: 1px solid var(--accent-light); }
+a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.breadcrumb { font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; }
+.breadcrumb a { color: var(--muted); }
+.definition { font-family: var(--serif); font-size: 1.15rem; color: var(--text);
+              background: var(--accent-light); padding: 1rem 1.25rem; border-radius: 8px;
+              margin: 1rem 0; border-left: 4px solid var(--accent); }
+.badge { display: inline-block; padding: 0.15rem 0.6rem; border-radius: 999px;
+         font-size: 0.8rem; font-weight: 600; letter-spacing: 0.02em; }
+.book-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.75rem 0; }
+.book-pill { background: #f5f5f4; border: 1px solid var(--border); padding: 0.15rem 0.5rem;
+             border-radius: 4px; font-size: 0.75rem; color: var(--muted); }
+.cross-refs { margin: 1rem 0; padding: 0.75rem 1rem; background: #fefce8;
+              border-radius: 6px; font-size: 0.9rem; }
+.cross-refs a { margin: 0 0.15rem; }
+.sources { margin: 1.5rem 0; }
+.sources summary { cursor: pointer; font-size: 0.85rem; color: var(--muted); font-weight: 600; }
+.sources ul { margin: 0.5rem 0 0 1.2rem; font-size: 0.85rem; color: var(--muted); }
+.sources li { margin-bottom: 0.3rem; }
+.book-tag { font-size: 0.75rem; background: #f5f5f4; padding: 0.1rem 0.4rem;
+            border-radius: 3px; color: var(--muted); }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+        padding: 1.25rem 1.5rem; margin-bottom: 1rem; transition: box-shadow 0.2s; }
+.card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.card h4 { margin: 0 0 0.3rem; }
+.card h4 a { font-family: var(--serif); font-size: 1.1rem; border-bottom: none; }
+.card p.snippet { font-size: 0.9rem; color: var(--muted); margin: 0; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+@media (max-width: 640px) { .grid { grid-template-columns: 1fr; } body { padding: 1rem; } }
+.section-label { font-family: var(--serif); font-size: 1.1rem; color: var(--accent);
+                 margin: 0.3rem 0 0; }
+.stat { font-size: 2rem; font-weight: 700; color: var(--text); }
+.stat-card { text-align: center; padding: 1.5rem; }
+.detail-row { margin: 1rem 0; }
+.detail-row strong { display: block; font-size: 0.85rem; color: var(--muted);
+                     text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 0.25rem; }
+.how-to { background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px;
+          padding: 1rem 1.25rem; margin: 1rem 0; }
+.rec-card { border-left: 4px solid var(--accent); }
+.rec-condition { font-weight: 600; margin-bottom: 0.5rem; }
+nav.toc { margin: 1.5rem 0; }
+nav.toc ul { list-style: none; margin: 0; padding: 0; }
+nav.toc li { margin-bottom: 0.2rem; }
+nav.toc a { font-size: 0.95rem; }
+footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border);
+         font-size: 0.8rem; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<div class="breadcrumb"><a href="index.html">Home</a></div>
+
+<h1>The Eric Morris Acting System</h1>
+
+<div style="font-size:1.05rem;line-height:1.8;margin-bottom:2.5rem">
+<p>
+Eric Morris is one of the most influential acting teachers in American theatre and film, whose students
+include Jack Nicholson, Arnold Schwarzenegger, and numerous other acclaimed performers. Over a career
+spanning more than fifty years and seven books, Morris developed a comprehensive acting system that
+builds on and extends the Stanislavsky-derived <strong>Method</strong> tradition brought to America by
+Lee Strasberg at the Actors Studio.
+</p>
+<p>
+Where Strasberg's Method focuses on techniques like <em>sense memory</em> and <em>affective memory</em>
+to create emotional truth on stage, Morris identified a critical gap: <strong>these techniques only work
+if the actor's instrument is free enough to respond.</strong> Most actors carry deep-seated tensions,
+inhibitions, and emotional blocks from a lifetime of social conditioning &mdash; fear of judgment, need
+for approval, suppression of impulses. No amount of craft technique can produce genuine results through
+a blocked instrument. As Morris puts it: <em>"You can't teach a man to run if he hasn't got legs."</em>
+</p>
+<p>
+Morris's solution was to develop an entirely new dimension of actor training &mdash;
+<strong>instrumental work</strong> &mdash; a systematic approach to freeing the actor's emotional instrument
+<em>before</em> applying craft. His system is built on the concept of
+<a href="concepts/being.html"><strong>BEING</strong></a>: the state of total, authentic presence in
+which the actor expresses everything felt moment-to-moment, without intellectual interference or social
+obligation. BEING is the canvas; technique is the paint. Morris argues that 90% of training should go
+to achieving BEING, with craft technique occupying the remaining 10%.
+</p>
+<p>
+The complete system unfolds in three stages: <strong>Being &rarr; Irreverence &rarr;
+Ultimate Consciousness</strong>. First, the actor liberates the instrument and achieves genuine presence.
+Then, through <a href="concepts/irreverence.html">irreverence</a> &mdash; a courageous disregard for
+social and theatrical conventions &mdash; the actor learns to honor all impulses freely. Finally, in rare
+peak moments, the actor reaches <a href="concepts/ultimate-consciousness.html">Ultimate Consciousness</a>,
+where unconscious impulses enrich conscious behavior, producing transcendent performance.
+</p>
+</div>
+
+<div class="grid"><div class="card stat-card">
+            <div class="stat">93</div>
+            <div class="section-label"><a href="concepts/index.html">Concepts</a></div>
+        </div><div class="card stat-card">
+            <div class="stat">302</div>
+            <div class="section-label"><a href="techniques/index.html">Techniques</a></div>
+        </div><div class="card stat-card">
+            <div class="stat">174</div>
+            <div class="section-label"><a href="exercises/index.html">Exercises</a></div>
+        </div><div class="card stat-card">
+        <div class="stat">230</div>
+        <div class="section-label"><a href="recommendations.html">Recommendations</a></div>
+    </div></div>
+<h2>Core Concepts</h2>
+<div class="grid"><div class="card">
+                <h4><a href="concepts/being.html">BEING</a></h4>
+                <p class="snippet">The foundational state of authentic, unedited presence in which the actor is genuinely affected by internal and external...</p>
+            </div><div class="card">
+                <h4><a href="concepts/instrument.html">The Instrument</a></h4>
+                <p class="snippet">The actor&#x27;s total self — body, mind, voice, emotions, senses, impulses, and psyche — the medium through which acting is ...</p>
+            </div><div class="card">
+                <h4><a href="concepts/obligations.html">Obligations</a></h4>
+                <p class="snippet">The seven major responsibilities an actor must identify and fulfill when approaching dramatic material — the specific re...</p>
+            </div><div class="card">
+                <h4><a href="concepts/the-craft.html">The Craft</a></h4>
+                <p class="snippet">The set of exercises, techniques, and processes an actor uses to fulfill the emotional and behavioral obligations of a s...</p>
+            </div><div class="card">
+                <h4><a href="concepts/sense-memory.html">Sense Memory</a></h4>
+                <p class="snippet">A choice approach in which the actor uses one or more of the five senses to recreate an object, person, place, or experi...</p>
+            </div><div class="card">
+                <h4><a href="concepts/tension.html">Tension</a></h4>
+                <p class="snippet">The actor&#x27;s Number One problem and arch enemy: a pervasive physical and psychological constriction that acts as a stoppe...</p>
+            </div><div class="card">
+                <h4><a href="concepts/ultimate-consciousness.html">Ultimate Consciousness</a></h4>
+                <p class="snippet">The pinnacle acting state — the culmination of Being → Irreverence → Ultimate Consciousness — in which unconscious impul...</p>
+            </div><div class="card">
+                <h4><a href="concepts/vulnerability.html">Vulnerability</a></h4>
+                <p class="snippet">The state of emotional openness and availability to be genuinely affected — the actor&#x27;s receptiveness to stimuli, people...</p>
+            </div><div class="card">
+                <h4><a href="concepts/preparation.html">Preparation</a></h4>
+                <p class="snippet">Everything an actor does to get ready to act — comprising 95% of acting itself. Encompasses both instrumental preparatio...</p>
+            </div><div class="card">
+                <h4><a href="concepts/choices.html">Choices</a></h4>
+                <p class="snippet">The specific objects, people, places, events, experiences, or sensory elements an actor selects to stimulate the emotion...</p>
+            </div></div>
+
+<h2>The System at a Glance</h2>
+<div style="font-size:1.02rem;line-height:1.8;margin-bottom:1.5rem">
+<p>
+<strong>The problem Morris solves:</strong> Conventional actor training teaches craft techniques &mdash;
+sense memory, emotional recall, script analysis &mdash; but assumes the actor is emotionally available
+to use them. In reality, most actors are blocked by tension, social conditioning, fear, and ego problems
+that prevent genuine emotional access. They end up <em>imposing</em> behavior rather than
+<em>experiencing</em> it, producing what Morris calls
+<a href="concepts/on-the-nose-acting.html">"on the nose" acting</a>: flat, one-dimensional
+performances that deliver the result of an emotion without the living process that created it.
+</p>
+<p>
+<strong>How it works:</strong> The system operates on two tracks simultaneously. The
+<strong>instrumental track</strong> uses over a hundred exercises &mdash; from
+<a href="exercises/personal-inventory-i.html">Personal Inventory</a> and
+<a href="concepts/vulnerability.html">vulnerability work</a> to
+<a href="concepts/tension.html">tension-release techniques</a> and ego-building preparations &mdash;
+to systematically dismantle the actor's emotional blocks and restore the natural
+<em>stimulus &rarr; effect &rarr; response &rarr; expression</em> cycle. The
+<strong>craft track</strong> provides a concrete methodology for approaching any piece of material:
+identify the seven <a href="concepts/obligations.html">obligations</a> of the scene, select personal
+<a href="concepts/choices.html">choices</a> that can organically stimulate the required emotional life,
+and work for those choices through specific
+<a href="concepts/choice-approaches.html">choice approaches</a> like sense memory, endowments,
+imaginary monologues, and imaging.
+</p>
+<p>
+<strong>What makes it unique:</strong> Unlike purely technical approaches (Meisner, Adler, Hagen) or
+purely psychological ones, Morris's system integrates the personal and the professional into a single,
+lifelong practice. The exercises are not just classroom tools &mdash; they are designed to become a
+<em>way of life</em>. The actor who practices daily Personal Inventory, sense memory, and BEING work
+develops an instrument that is perpetually ready, emotionally available, and capable of
+<a href="concepts/organic-reality.html">organic reality</a> that audiences find irresistibly compelling.
+The craft, as Morris says, <em>"is designed to do away with itself"</em> &mdash; the more skilled the
+actor becomes, the less the technique shows, until only truth remains.
+</p>
+</div>
+
+<h2>Browse the Knowledge Base</h2>
+<p style="color:var(--muted);margin-bottom:1rem">Extracted from 1,809 pages across seven books, with page-level source tracing throughout.</p>
+<nav class="toc"><ul>
+<li><a href="concepts/index.html">All Concepts (93)</a> &mdash; the ideas, principles, and philosophy of the system</li>
+<li><a href="techniques/index.html">All Techniques (302)</a> &mdash; instrumental and craft methods, each classified by type</li>
+<li><a href="exercises/index.html">All Exercises (174)</a> &mdash; step-by-step practical exercises with goals and instructions</li>
+<li><a href="recommendations.html">All Recommendations (230)</a> &mdash; situational advice: when this problem arises, try this approach</li>
+</ul></nav>
+
+<footer>Eric Morris Acting System — Knowledge Base generated from 7 books, 1,809 pages</footer>
+</body>
+</html>

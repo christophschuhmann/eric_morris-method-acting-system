@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BEING — Eric Morris Acting System</title>
+<style>
+:root {
+    --bg: #fafaf9; --text: #1c1917; --muted: #78716c;
+    --border: #e7e5e4; --card: #ffffff; --accent: #b45309;
+    --accent-light: #fef3c7; --link: #92400e;
+    --serif: 'Georgia', 'Times New Roman', serif;
+    --sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--sans); background: var(--bg); color: var(--text);
+       line-height: 1.7; max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem; }
+h1 { font-family: var(--serif); font-size: 2.2rem; font-weight: 700;
+     color: var(--accent); margin-bottom: 0.5rem; letter-spacing: -0.02em; }
+h2 { font-family: var(--serif); font-size: 1.5rem; color: var(--text);
+     margin: 2rem 0 0.75rem; border-bottom: 2px solid var(--accent-light); padding-bottom: 0.3rem; }
+h3 { font-size: 1.1rem; color: var(--muted); margin: 1.5rem 0 0.5rem; text-transform: uppercase;
+     letter-spacing: 0.05em; font-weight: 600; }
+p { margin-bottom: 0.75rem; }
+a { color: var(--link); text-decoration: none; border-bottom: 1px solid var(--accent-light); }
+a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.breadcrumb { font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; }
+.breadcrumb a { color: var(--muted); }
+.definition { font-family: var(--serif); font-size: 1.15rem; color: var(--text);
+              background: var(--accent-light); padding: 1rem 1.25rem; border-radius: 8px;
+              margin: 1rem 0; border-left: 4px solid var(--accent); }
+.badge { display: inline-block; padding: 0.15rem 0.6rem; border-radius: 999px;
+         font-size: 0.8rem; font-weight: 600; letter-spacing: 0.02em; }
+.book-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.75rem 0; }
+.book-pill { background: #f5f5f4; border: 1px solid var(--border); padding: 0.15rem 0.5rem;
+             border-radius: 4px; font-size: 0.75rem; color: var(--muted); }
+.cross-refs { margin: 1rem 0; padding: 0.75rem 1rem; background: #fefce8;
+              border-radius: 6px; font-size: 0.9rem; }
+.cross-refs a { margin: 0 0.15rem; }
+.sources { margin: 1.5rem 0; }
+.sources summary { cursor: pointer; font-size: 0.85rem; color: var(--muted); font-weight: 600; }
+.sources ul { margin: 0.5rem 0 0 1.2rem; font-size: 0.85rem; color: var(--muted); }
+.sources li { margin-bottom: 0.3rem; }
+.book-tag { font-size: 0.75rem; background: #f5f5f4; padding: 0.1rem 0.4rem;
+            border-radius: 3px; color: var(--muted); }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+        padding: 1.25rem 1.5rem; margin-bottom: 1rem; transition: box-shadow 0.2s; }
+.card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.card h4 { margin: 0 0 0.3rem; }
+.card h4 a { font-family: var(--serif); font-size: 1.1rem; border-bottom: none; }
+.card p.snippet { font-size: 0.9rem; color: var(--muted); margin: 0; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+@media (max-width: 640px) { .grid { grid-template-columns: 1fr; } body { padding: 1rem; } }
+.section-label { font-family: var(--serif); font-size: 1.1rem; color: var(--accent);
+                 margin: 0.3rem 0 0; }
+.stat { font-size: 2rem; font-weight: 700; color: var(--text); }
+.stat-card { text-align: center; padding: 1.5rem; }
+.detail-row { margin: 1rem 0; }
+.detail-row strong { display: block; font-size: 0.85rem; color: var(--muted);
+                     text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 0.25rem; }
+.how-to { background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px;
+          padding: 1rem 1.25rem; margin: 1rem 0; }
+.rec-card { border-left: 4px solid var(--accent); }
+.rec-condition { font-weight: 600; margin-bottom: 0.5rem; }
+nav.toc { margin: 1.5rem 0; }
+nav.toc ul { list-style: none; margin: 0; padding: 0; }
+nav.toc li { margin-bottom: 0.2rem; }
+nav.toc a { font-size: 0.95rem; }
+footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border);
+         font-size: 0.8rem; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<div class="breadcrumb"><a href="../index.html">Home</a> / <a href="index.html">Concepts</a> / BEING</div>
+<h1>BEING</h1>
+<div class="book-pills"><span class="book-pill">Irreverent Acting</span><span class="book-pill">No Acting Please</span><span class="book-pill">Ultimate Consciousness</span><span class="book-pill">Being &amp; Doing</span><span class="book-pill">Freeing the Actor</span></div>
+<div class="definition">The foundational state of authentic, unedited presence in which the actor is genuinely affected by internal and external stimuli and responds by expressing feelings on an organic, moment-to-moment basis. BEING is total presence — the acknowledgment, acceptance, and expression of all impulses without intellectual interference, suppression, or social obligation. It is not merely an acting state but a living state that must exist 24 hours a day; the fullest, most real state achievable on stage or in life. BEING BEFORE DOING, BEING BEFORE ACTING. The canvas metaphor: BEING is the canvas; technique is the paint — 90% of training should go to BEING.</div>
+<p>Morris developed the concept of BEING after observing that actors were fullest on stage when closest to what they actually felt. The split between what an actor really feels and what they express is the core problem BEING addresses. BEING is contrasted with &#x27;natural&#x27; acting, which is the imitation of truth rather than truth itself.</p>
+<p>When truly BEING, behavior includes infinite colors, distractions, interruptions, and unpredictable emotional changes. All emotions have equal value — &#x27;Everything is a Number Six.&#x27; Suppressing any impulse caps everything. The actor who is truly BEING is unique, individual, and unlike any other person. Conditioning, social taboos, and behavioral restrictions are major obstacles to BEING.</p>
+<p>BEING is the bridge between process and application of process. It is the first stage in the chain leading to Ultimate Consciousness (Being → Irreverence → Ultimate Consciousness). Without a solid BEING state, the later stages cannot be reached. When an actor achieves BEING, the work paradoxically becomes more theatrical and meets material demands more imaginatively.</p>
+<p>The Being and Doing philosophy (from the book of the same name) captures the essence: in real life, people DO things because of real impulses — genuine BEING causes authentic DOING. Stage acting must replicate this organic process rather than imitating the surface result. Common acting problems — imposition, compensation, dependencies — vanish when the actor is in a genuine BEING state. Being in Every Role: versatility comes from accessing different dimensions of oneself, not from becoming different people.</p>
+
+<div class="cross-refs"><strong>Related:</strong> <a href="concepts/instrument.html">Instrument</a> · <a href="concepts/impulses.html">Impulses</a> · <a href="concepts/moment-to-moment.html">Moment To Moment</a> · <a href="concepts/splits.html">Splits</a> · <a href="concepts/social-obligation.html">Social Obligation</a> · <a href="concepts/irreverence.html">Irreverence</a> · <a href="concepts/ultimate-consciousness.html">Ultimate Consciousness</a> · <a href="concepts/instrumental-preparation.html">Instrumental Preparation</a> · <a href="concepts/organic-reality.html">Organic Reality</a> · <a href="concepts/on-the-nose-acting.html">On The Nose Acting</a> · <a href="concepts/stimulus-effect-response-expression.html">Stimulus Effect Response Expression</a> · <a href="concepts/emotional-point-of-view.html">Emotional Point Of View</a> · <a href="concepts/inclusion.html">Inclusion</a> · <a href="concepts/preparation.html">Preparation</a></div>
+<details class="sources"><summary>Sources (15)</summary><ul><li><strong>p.19</strong> <em class="book-tag">Irreverent Acting</em> — BEING defined: state of experience/behavior wherein actor is affected by stimuli and responds organically moment-to-moment; the nucleus of talent.</li><li><strong>p.20</strong> <em class="book-tag">Irreverent Acting</em> — Originated from observing split between actor&#x27;s real feelings and their expressed behavior.</li><li><strong>p.22</strong> <em class="book-tag">Irreverent Acting</em> — BEING is the bridge between theory and application; prerequisite to using the Method and craft techniques.</li><li><strong>p.26</strong> <em class="book-tag">Irreverent Acting</em> — BEING is a living state, 24 hours a day; conditioning and taboos are major obstacles.</li><li><strong>p.65</strong> <em class="book-tag">Irreverent Acting</em> — BEING is the basis of organic reality, irreverence, Ultimate Consciousness, and ensemble — the foundation of theatrically memorable performances.</li><li><strong>p.13</strong> <em class="book-tag">No Acting Please</em> — Morris introduces BEING as result of working with actors who were fullest on stage when closest to what they really felt.</li><li><strong>p.15</strong> <em class="book-tag">No Acting Please</em> — BEING defined: do no more or less than you feel. BEING is the only place from which you can create organic reality.</li><li><strong>p.16</strong> <em class="book-tag">No Acting Please</em> — In BEING state, emotions contain all personal truth. BEING produces unpredictability and uniqueness.</li><li><strong>p.26</strong> <em class="book-tag">No Acting Please</em> — BEING BEFORE DOING. All emotions equal value — Everything is a Number Six. Suppressing any impulse caps everything.</li><li><strong>p.33</strong> <em class="book-tag">No Acting Please</em> — Canvas metaphor: BEING is the canvas. 90% BEING, 10% technique is proper proportion.</li><li><strong>p.38</strong> <em class="book-tag">No Acting Please</em> — BEING promotes natural stimulus-effect-response-expression cycle. Premeditation short-circuits this process.</li><li><strong>p.21</strong> <em class="book-tag">Acting from the Ultimate Consciousness</em> — Being is stage one — actor in moment-to-moment contact with feelings, expressing impulses freely. First link in chain: being → irreverence → ultimate consciousness.</li><li><strong>p.13</strong> <em class="book-tag">Being and Doing: A Workbook for Actors</em> — Being and Doing philosophy: real life actions result from real impulses; stage acting must replicate this process rather than mimicking Doing without genuine Being.</li><li><strong>p.17</strong> <em class="book-tag">Being and Doing: A Workbook for Actors</em> — Morris developed BEING system over 20 years to find roads into the self, eliminating lifelong inhibitions.</li><li><strong>p.?</strong> <em class="book-tag">Freeing the Actor</em> — Being state defined as starting from which authentic acting proceeds — an empty blackboard that can receive any stimulus. Still and full, not empty.</li></ul></details>
+<footer>Eric Morris Acting System — Knowledge Base generated from 7 books, 1,809 pages</footer>
+</body>
+</html>

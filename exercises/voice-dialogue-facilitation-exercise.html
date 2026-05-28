@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Voice Dialogue Facilitation (Shirley Example) — Eric Morris Acting System</title>
+<style>
+:root {
+    --bg: #fafaf9; --text: #1c1917; --muted: #78716c;
+    --border: #e7e5e4; --card: #ffffff; --accent: #b45309;
+    --accent-light: #fef3c7; --link: #92400e;
+    --serif: 'Georgia', 'Times New Roman', serif;
+    --sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--sans); background: var(--bg); color: var(--text);
+       line-height: 1.7; max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem; }
+h1 { font-family: var(--serif); font-size: 2.2rem; font-weight: 700;
+     color: var(--accent); margin-bottom: 0.5rem; letter-spacing: -0.02em; }
+h2 { font-family: var(--serif); font-size: 1.5rem; color: var(--text);
+     margin: 2rem 0 0.75rem; border-bottom: 2px solid var(--accent-light); padding-bottom: 0.3rem; }
+h3 { font-size: 1.1rem; color: var(--muted); margin: 1.5rem 0 0.5rem; text-transform: uppercase;
+     letter-spacing: 0.05em; font-weight: 600; }
+p { margin-bottom: 0.75rem; }
+a { color: var(--link); text-decoration: none; border-bottom: 1px solid var(--accent-light); }
+a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.breadcrumb { font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; }
+.breadcrumb a { color: var(--muted); }
+.definition { font-family: var(--serif); font-size: 1.15rem; color: var(--text);
+              background: var(--accent-light); padding: 1rem 1.25rem; border-radius: 8px;
+              margin: 1rem 0; border-left: 4px solid var(--accent); }
+.badge { display: inline-block; padding: 0.15rem 0.6rem; border-radius: 999px;
+         font-size: 0.8rem; font-weight: 600; letter-spacing: 0.02em; }
+.book-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.75rem 0; }
+.book-pill { background: #f5f5f4; border: 1px solid var(--border); padding: 0.15rem 0.5rem;
+             border-radius: 4px; font-size: 0.75rem; color: var(--muted); }
+.cross-refs { margin: 1rem 0; padding: 0.75rem 1rem; background: #fefce8;
+              border-radius: 6px; font-size: 0.9rem; }
+.cross-refs a { margin: 0 0.15rem; }
+.sources { margin: 1.5rem 0; }
+.sources summary { cursor: pointer; font-size: 0.85rem; color: var(--muted); font-weight: 600; }
+.sources ul { margin: 0.5rem 0 0 1.2rem; font-size: 0.85rem; color: var(--muted); }
+.sources li { margin-bottom: 0.3rem; }
+.book-tag { font-size: 0.75rem; background: #f5f5f4; padding: 0.1rem 0.4rem;
+            border-radius: 3px; color: var(--muted); }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+        padding: 1.25rem 1.5rem; margin-bottom: 1rem; transition: box-shadow 0.2s; }
+.card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.card h4 { margin: 0 0 0.3rem; }
+.card h4 a { font-family: var(--serif); font-size: 1.1rem; border-bottom: none; }
+.card p.snippet { font-size: 0.9rem; color: var(--muted); margin: 0; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+@media (max-width: 640px) { .grid { grid-template-columns: 1fr; } body { padding: 1rem; } }
+.section-label { font-family: var(--serif); font-size: 1.1rem; color: var(--accent);
+                 margin: 0.3rem 0 0; }
+.stat { font-size: 2rem; font-weight: 700; color: var(--text); }
+.stat-card { text-align: center; padding: 1.5rem; }
+.detail-row { margin: 1rem 0; }
+.detail-row strong { display: block; font-size: 0.85rem; color: var(--muted);
+                     text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 0.25rem; }
+.how-to { background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px;
+          padding: 1rem 1.25rem; margin: 1rem 0; }
+.rec-card { border-left: 4px solid var(--accent); }
+.rec-condition { font-weight: 600; margin-bottom: 0.5rem; }
+nav.toc { margin: 1.5rem 0; }
+nav.toc ul { list-style: none; margin: 0; padding: 0; }
+nav.toc li { margin-bottom: 0.2rem; }
+nav.toc a { font-size: 0.95rem; }
+footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border);
+         font-size: 0.8rem; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<div class="breadcrumb"><a href="../index.html">Home</a> / <a href="index.html">Exercises</a> / Voice Dialogue Facilitation (Shirley Example)</div>
+<h1>Voice Dialogue Facilitation (Shirley Example) <span class="badge" style="background:#dbeafe;color:#2563eb">Instrumental</span></h1>
+<div class="book-pills"><span class="book-pill">Imaging &amp; Unconscious</span></div>
+<div class="detail-row"><strong>Goal</strong><p>Develop an aware ego and map the subject&#x27;s subpersonality structure by speaking directly with each self as it emerges.</p></div><div class="how-to"><strong style="display:block;margin-bottom:0.5rem">How To</strong><p>FACILITATOR: 1. Seat yourself facing the subject. Begin: &#x27;Tell me what&#x27;s going on in your life.&#x27; 2. Note vocal and physical changes as different selves emerge. 3. When a new energy appears, immediately address it: &#x27;Who are you?&#x27;    Identify the self by its characteristics (tone, posture, attitude). 4. Talk to each self as a distinct entity; do not disagree or engage in conflict. 5. Periodically move the subject to a new space to access the aware ego:    &#x27;I&#x27;d like to speak to Shirley now.&#x27; 6. In the aware-ego state, recap observations and share conclusions. 7. End by returning to a primary self. SUBJECT: - Physically move to a different area of the room for each self. - Each self refers to the subject in third person (&#x27;her,&#x27; not &#x27;me&#x27;). - Allow the self&#x27;s energy to transform your posture, voice, and attitude fully.</p></div><div class="detail-row"><strong>Who Should Do It</strong><p>All actors as the primary prerequisite to any subpersonality acting work. Also valuable for personal growth and self-awareness independent of acting.</p></div><div class="detail-row"><strong>Why It Works</strong><p>By addressing each self as a distinct entity, the facilitator allows it to express itself fully without being censored by the controlling selves. The physical movement between spaces reinforces that each self occupies a different energetic territory. Over time, the aware ego grows stronger and can hold all selves in balance.</p></div><div class="detail-row"><strong>Additional Info</strong><p>An average session lasts one hour or more. Shirley&#x27;s example: protector/controller emerged quickly and revealed the child history of verbal abuse; shy child and pleaser were also identified; rebellious child broke through at school age. The aware ego described itself as &#x27;just coming into being&#x27; – evidence that it develops progressively through repeated voice dialogue.</p></div>
+<p><strong>Related Technique:</strong> <a href="techniques/voice-dialogue-technique.html">Voice Dialogue Technique</a></p>
+
+<details class="sources"><summary>Sources (53)</summary><ul><li><strong>p.p.208</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.209</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.210</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.211</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.212</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.213</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.214</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.215</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.216</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.217</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.218</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.219</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.220</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.221</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.222</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.223</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.224</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.225</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.226</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.227</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.228</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.229</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.230</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.231</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.232</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.233</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.234</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.235</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.236</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.237</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.238</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.239</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.240</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.241</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.242</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.243</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.244</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.245</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.246</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.247</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.248</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.249</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.250</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.251</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.252</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.253</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.254</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.255</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.256</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.257</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.258</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.259</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li><li><strong>p.p.260</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — </li></ul></details>
+<footer>Eric Morris Acting System — Knowledge Base generated from 7 books, 1,809 pages</footer>
+</body>
+</html>

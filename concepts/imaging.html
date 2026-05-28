@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Imaging — Eric Morris Acting System</title>
+<style>
+:root {
+    --bg: #fafaf9; --text: #1c1917; --muted: #78716c;
+    --border: #e7e5e4; --card: #ffffff; --accent: #b45309;
+    --accent-light: #fef3c7; --link: #92400e;
+    --serif: 'Georgia', 'Times New Roman', serif;
+    --sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--sans); background: var(--bg); color: var(--text);
+       line-height: 1.7; max-width: 860px; margin: 0 auto; padding: 2rem 1.5rem; }
+h1 { font-family: var(--serif); font-size: 2.2rem; font-weight: 700;
+     color: var(--accent); margin-bottom: 0.5rem; letter-spacing: -0.02em; }
+h2 { font-family: var(--serif); font-size: 1.5rem; color: var(--text);
+     margin: 2rem 0 0.75rem; border-bottom: 2px solid var(--accent-light); padding-bottom: 0.3rem; }
+h3 { font-size: 1.1rem; color: var(--muted); margin: 1.5rem 0 0.5rem; text-transform: uppercase;
+     letter-spacing: 0.05em; font-weight: 600; }
+p { margin-bottom: 0.75rem; }
+a { color: var(--link); text-decoration: none; border-bottom: 1px solid var(--accent-light); }
+a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.breadcrumb { font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; }
+.breadcrumb a { color: var(--muted); }
+.definition { font-family: var(--serif); font-size: 1.15rem; color: var(--text);
+              background: var(--accent-light); padding: 1rem 1.25rem; border-radius: 8px;
+              margin: 1rem 0; border-left: 4px solid var(--accent); }
+.badge { display: inline-block; padding: 0.15rem 0.6rem; border-radius: 999px;
+         font-size: 0.8rem; font-weight: 600; letter-spacing: 0.02em; }
+.book-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.75rem 0; }
+.book-pill { background: #f5f5f4; border: 1px solid var(--border); padding: 0.15rem 0.5rem;
+             border-radius: 4px; font-size: 0.75rem; color: var(--muted); }
+.cross-refs { margin: 1rem 0; padding: 0.75rem 1rem; background: #fefce8;
+              border-radius: 6px; font-size: 0.9rem; }
+.cross-refs a { margin: 0 0.15rem; }
+.sources { margin: 1.5rem 0; }
+.sources summary { cursor: pointer; font-size: 0.85rem; color: var(--muted); font-weight: 600; }
+.sources ul { margin: 0.5rem 0 0 1.2rem; font-size: 0.85rem; color: var(--muted); }
+.sources li { margin-bottom: 0.3rem; }
+.book-tag { font-size: 0.75rem; background: #f5f5f4; padding: 0.1rem 0.4rem;
+            border-radius: 3px; color: var(--muted); }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+        padding: 1.25rem 1.5rem; margin-bottom: 1rem; transition: box-shadow 0.2s; }
+.card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.card h4 { margin: 0 0 0.3rem; }
+.card h4 a { font-family: var(--serif); font-size: 1.1rem; border-bottom: none; }
+.card p.snippet { font-size: 0.9rem; color: var(--muted); margin: 0; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+@media (max-width: 640px) { .grid { grid-template-columns: 1fr; } body { padding: 1rem; } }
+.section-label { font-family: var(--serif); font-size: 1.1rem; color: var(--accent);
+                 margin: 0.3rem 0 0; }
+.stat { font-size: 2rem; font-weight: 700; color: var(--text); }
+.stat-card { text-align: center; padding: 1.5rem; }
+.detail-row { margin: 1rem 0; }
+.detail-row strong { display: block; font-size: 0.85rem; color: var(--muted);
+                     text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 0.25rem; }
+.how-to { background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px;
+          padding: 1rem 1.25rem; margin: 1rem 0; }
+.rec-card { border-left: 4px solid var(--accent); }
+.rec-condition { font-weight: 600; margin-bottom: 0.5rem; }
+nav.toc { margin: 1.5rem 0; }
+nav.toc ul { list-style: none; margin: 0; padding: 0; }
+nav.toc li { margin-bottom: 0.2rem; }
+nav.toc a { font-size: 0.95rem; }
+footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border);
+         font-size: 0.8rem; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<div class="breadcrumb"><a href="../index.html">Home</a> / <a href="index.html">Concepts</a> / Imaging</div>
+<h1>Imaging</h1>
+<div class="book-pills"><span class="book-pill">Imaging &amp; Unconscious</span></div>
+<div class="definition">A structured, sensory-rich mental visualization process in which the actor creates vivid internal experiences — seeing, hearing, smelling, tasting, and feeling — with the purpose of stimulating authentic emotional life, communicating with the unconscious, and fulfilling acting obligations. Choice Approach #26 in Morris&#x27;s system and his fifth MEGAPPROACH.</div>
+<p>Morris distinguishes imaging from casual daydreaming or &#x27;head-only&#x27; visualization. Imaging must involve all five senses simultaneously, not just the visual. The image should leave the &#x27;inner screen&#x27; and surround the actor as a living reality — the actor is IN the image, not watching it from outside.</p>
+<p>Imaging can be used instrumentally (to free the actor&#x27;s instrument) and as craft (to fulfill scene obligations). When practiced repeatedly, images sink into the unconscious and begin to influence behavior organically. The unconscious &#x27;speaks&#x27; in images (Jung: &#x27;Images are the language of the unconscious&#x27;) — imaging is therefore the primary conduit between conscious craft work and unconscious impulse.</p>
+<p>Morris identifies seven imaging techniques: (1) Story Imaging — creating an experience as a sequential narrative; (2) Fragmented Imaging — random, disconnected images; (3) Verbal Imaging — creating imagery through evocative words; (4) Fantasy Imaging — imaginary, non-real scenarios; (5) Imaging with Sense Memory — combining sensory recall with visual imaging; (6) Symbolic Imaging — images that represent abstract realities; (7) Involuntary Imaging — allowing the unconscious to generate images without direction.</p>
+
+<div class="cross-refs"><strong>Related:</strong> <a href="concepts/the-unconscious.html">The Unconscious</a> · <a href="techniques/choice-approaches.html">Choice Approaches</a> · <a href="techniques/sense-memory.html">Sense Memory</a> · <a href="techniques/affective-memory.html">Affective Memory</a> · <a href="concepts/obligations.html">Obligations</a> · <a href="concepts/choices.html">Choices</a> · <a href="concepts/believability.html">Believability</a> · <a href="techniques/selective-emphasis.html">Selective Emphasis</a></div>
+<details class="sources"><summary>Sources (2)</summary><ul><li><strong>p.?</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — Imaging defined: must involve all five senses simultaneously; actor is IN the image. Choice Approach #26, fifth MEGAPPROACH. Seven imaging techniques identified.</li><li><strong>p.16</strong> <em class="book-tag">Acting, Imaging and the Unconscious</em> — Jung epigraph: &#x27;Images are the language of the unconscious.&#x27; Imaging is the primary conduit to unconscious impulse.</li></ul></details>
+<footer>Eric Morris Acting System — Knowledge Base generated from 7 books, 1,809 pages</footer>
+</body>
+</html>
