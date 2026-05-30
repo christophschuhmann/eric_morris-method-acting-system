@@ -1,0 +1,1461 @@
+{
+  "metadata": {
+    "book": "No Acting Please",
+    "authors": "Eric Morris and Joan Hotchkis",
+    "total_pages_processed": 196,
+    "windows_processed": 20,
+    "last_page_processed": 196,
+    "status": "complete"
+  },
+  "concepts": {
+    "being": {
+      "name": "BEING",
+      "definition": "A state of total, unedited presence in which the actor expresses everything felt moment-to-moment without intellectual interference, suppression, or social obligation. The acknowledgment, acceptance, and expression of all impulses — the fullest, most real state achievable on stage or in life.",
+      "details": "BEING is the actor's ground-zero reality from which all creative work must spring. When BEING, behavior includes infinite colors, distractions, interruptions, and unpredictable emotional changes. Core principle: BEING BEFORE DOING, BEING BEFORE ACTING. Canvas metaphor: BEING is the canvas; technique is the paint — 90% of training should go to BEING. What stops BEING: fear of consequences, ridicule, rejection, violation of self-image, fear of failure. All emotions have equal value — Everything is a Number Six. BEING is a way of life, not just a technique. When an actor achieves BEING, the work paradoxically becomes more theatrical and meets material demands more imaginatively.",
+      "related_concepts": [
+        "instrument",
+        "splits",
+        "social_obligation",
+        "impositional_technique",
+        "stimulus_effect_response_expression",
+        "on_the_nose_acting",
+        "organic_reality"
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "summary": "Morris introduces BEING as result of working with actors who were fullest on stage when closest to what they really felt."
+        },
+        {
+          "page": 15,
+          "summary": "BEING defined: do no more or less than you feel. BEING is the only place from which you can create organic reality."
+        },
+        {
+          "page": 16,
+          "summary": "In BEING state, emotions contain all personal truth. BEING produces unpredictability and uniqueness."
+        },
+        {
+          "page": 22,
+          "summary": "Eric demonstrates BEING to E.J. in taped class dialogue — whatever is, is. BEING can be stream of consciousness or silent."
+        },
+        {
+          "page": 26,
+          "summary": "BEING BEFORE DOING. All emotions equal value — Everything is a Number Six. Suppressing any impulse caps everything."
+        },
+        {
+          "page": 33,
+          "summary": "Canvas metaphor: BEING is the canvas. 90% BEING, 10% technique is proper proportion."
+        },
+        {
+          "page": 36,
+          "summary": "Different BEING states: going from current BEING to material-required BEING through interim steps. States carry over and mix like colors."
+        },
+        {
+          "page": 38,
+          "summary": "BEING promotes natural stimulus-effect-response-expression cycle. Premeditation short-circuits this process."
+        },
+        {
+          "page": 43,
+          "summary": "BEING is primary and basic foundation. Once at bedrock reality, actor can effect change toward material requirements."
+        }
+      ]
+    },
+    "instrument": {
+      "name": "The Instrument",
+      "definition": "The actor's total self — physical, emotional, psychological — the medium through which acting is created. Must be freed and sensitized before technique can function.",
+      "details": "Likened to a musical instrument that must be kept in tune. Cannot teach acting to someone not connected to inner self. Splits form when actor imposes behaviors. Has impressive (receiving) and expressive (outputting) areas — both must be developed. Shy actors may be imaginative and affectable but unable to express; exhibitionists may express freely but be insensitive.",
+      "related_concepts": [
+        "being",
+        "splits",
+        "tension",
+        "vulnerability"
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "summary": "Cannot teach person to act if not connected to inner self."
+        },
+        {
+          "page": 38,
+          "summary": "Splits form in instrument when actor imposes behaviors. Impressive and expressive areas both must be developed."
+        }
+      ]
+    },
+    "splits": {
+      "name": "Splits",
+      "definition": "Disruptions in the actor's instrument caused by imposing behaviors, assuming attitudes, or acting instead of BEING. Types: vocal, emotional, physical, intellectual.",
+      "details": "When the actor short-circuits the natural stimulus-effect-response-expression process by assuming behaviors, splits form. One denial sets up a chain reaction of denials until the lack of reality is epidemic. BEING eliminates splits or mends them when they occur.",
+      "related_concepts": [
+        "being",
+        "instrument",
+        "impositional_technique"
+      ],
+      "sources": [
+        {
+          "page": 38,
+          "summary": "Splits defined: caused by actor imposing behavior instead of responding organically. BEING eliminates or heals splits."
+        }
+      ]
+    },
+    "social_obligation": {
+      "name": "Social Obligation",
+      "definition": "The conditioned need to behave in socially acceptable, expected ways. A major obstacle to BEING that is heightened by the presence of an audience.",
+      "details": "When social obligation is frustrated — as in the BEING exercise — actors resort to crying, defensiveness, or other socially-patterned releases that are not genuine BEING. The need to do something when people are watching, to meet expectations, to maintain an image. BEING requires releasing social obligation and starting from what is actually felt.",
+      "related_concepts": [
+        "being",
+        "impositional_technique",
+        "on_the_nose_acting"
+      ],
+      "sources": [
+        {
+          "page": 21,
+          "summary": "Eric explains to E.J. that she functions on a level of social obligation — doing what people expect, not what she actually feels."
+        },
+        {
+          "page": 25,
+          "summary": "Society rules — don't cry, be nice — are anti-BEING and restrict actors."
+        }
+      ]
+    },
+    "on_the_nose_acting": {
+      "name": "On the Nose Acting",
+      "definition": "Flat, one-dimensional acting in which the actor delivers only the result of an emotion without the sources and impetus that caused it.",
+      "details": "Happens because the actor is concerned with delivering the result directly, so the emotion does not contain all its elements. When functioning from BEING, emotion contains all personal truth and reality because it comes from the authentic source rather than being applied from outside.",
+      "related_concepts": [
+        "being",
+        "impositional_technique",
+        "organic_reality"
+      ],
+      "sources": [
+        {
+          "page": 16,
+          "summary": "On the nose acting: actor delivers emotion result directly, missing sources and impetus. BEING produces multi-dimensional emotional truth."
+        }
+      ]
+    },
+    "impositional_technique": {
+      "name": "Impositional Technique",
+      "definition": "Acting that imposes predetermined behaviors, attitudes, and emotions rather than allowing them to arise organically from BEING. A symptom of the anti-reality actor.",
+      "details": "Produces paint-by-numbers acting where emotional shifts are abrupt and unnatural. Contrasted with BEING, where one state carries over into the next like colors running together. Includes trademark behaviors and mannerisms actors become known and hired for — but these rob actors of 90% of their talent. The anti-reality actor short-circuits the natural process anywhere along the line.",
+      "related_concepts": [
+        "being",
+        "on_the_nose_acting",
+        "splits"
+      ],
+      "sources": [
+        {
+          "page": 37,
+          "summary": "Impositional technique described as paint-by-numbers — abrupt emotional shifts, no carry-over between states."
+        },
+        {
+          "page": 46,
+          "summary": "Actors functioning above their tension develop trademark behaviors — competent but never exciting."
+        }
+      ]
+    },
+    "stimulus_effect_response_expression": {
+      "name": "Stimulus-Effect-Response-Expression",
+      "definition": "The natural cycle of living: a stimulus is received, it has an effect, the instrument responds, and the response is expressed. BEING promotes this cycle; acting problems disrupt it.",
+      "details": "The cycle happens in micro-seconds, repeatedly, and constitutes living itself. BEING allows this process to function without interference. Premeditation short-circuits the process at any point — the stimulus may not even reach the actor, or he may be unaffected, or he may suppress his response. Tension is the result of interruption in this natural cycle.",
+      "related_concepts": [
+        "being",
+        "tension",
+        "splits"
+      ],
+      "sources": [
+        {
+          "page": 37,
+          "summary": "Natural process: stimulus-effect-response-expression happening in micro-seconds. This is living, which is BEING."
+        },
+        {
+          "page": 38,
+          "summary": "Premeditation short-circuits the process at any point."
+        },
+        {
+          "page": 47,
+          "summary": "Tension is the result of interruption in the natural process."
+        }
+      ]
+    },
+    "tension": {
+      "name": "Tension",
+      "definition": "The actor's Number One problem: a state of physical and mental strain that acts as a stopper on all emotional impulses, forcing actors to impose behavior above the cork rather than express genuine feeling.",
+      "details": "Manifests in thousands of ways: muscle tightening, sweaty palms, dry mouth, butterflies, trembling, difficulty breathing, chest pressure, inability to think. Corked bottle metaphor: tension is the stopper — everything below is trapped. Tension is also an indication of talent: the more tension, the more unexpressed emotion and sensitivity. Quote: 'Tension is talent.' Major causes: low ego-state, insecurities, need to succeed, fear of failure, absence of craft, lack of faith. Two dangerous types: (1) suppressed tension appearing as false calm, (2) Theatrical Hysteria where tension is mistaken for genuine emotion.",
+      "related_concepts": [
+        "being",
+        "instrument",
+        "theatrical_hysteria",
+        "ego_state",
+        "craft"
+      ],
+      "sources": [
+        {
+          "page": 45,
+          "summary": "Chapter 2 opens: tension defined as Number One problem. Corked bottle metaphor. Physical and mental manifestations."
+        },
+        {
+          "page": 46,
+          "summary": "Actors who suppress tension develop trademark behaviors. Tension is also indication of talent."
+        },
+        {
+          "page": 47,
+          "summary": "Tension as result of interruption in natural process. Tension is talent."
+        },
+        {
+          "page": 49,
+          "summary": "Causes of tension: ego-state, insecurities, need to succeed, fear of failure, absence of craft, lack of faith."
+        },
+        {
+          "page": 51,
+          "summary": "Craft is the antidote to insecurity."
+        }
+      ]
+    },
+    "theatrical_hysteria": {
+      "name": "Theatrical Hysteria (Ass Energy)",
+      "definition": "An acting problem in which the actor uses nervous tension itself as creative energy, mistaking it for genuine emotional experience and being unable to function without it.",
+      "details": "One of the most dangerous tension problems. Works well on opening night when natural tension is high. As security grows the actor must manufacture tension artificially — calling this 'preparing.' Symptoms: contorted faces, clenched teeth, constant crying. Actor is convinced of deep emotion when actually producing diarrhetic tension flow that substitutes for genuine feeling. Robs actor of genuine emotional experiences.",
+      "related_concepts": [
+        "tension",
+        "being",
+        "organic_reality"
+      ],
+      "sources": [
+        {
+          "page": 52,
+          "summary": "Theatrical Hysteria / Ass Energy defined: actor mistakes tension for emotion, cannot function without it."
+        }
+      ]
+    },
+    "organic_reality": {
+      "name": "Organic Reality",
+      "definition": "Genuine, unforced reality created from the actor's actual inner life and BEING state. The opposite of impositional, representational acting.",
+      "details": "Comes from BEING and shows up as bumpy, unpredictable, spontaneous behavior — not smooth or polished. Real people in life are bumpy, easily derailed, forget what they were going to say. Organic acting may look unprofessional by conventional standards but is far more compelling. The craft is designed to do away with itself — the more skilled the actor, the less the skill shows.",
+      "related_concepts": [
+        "being",
+        "impositional_technique",
+        "on_the_nose_acting"
+      ],
+      "sources": [
+        {
+          "page": 34,
+          "summary": "Organic reality looks bumpy and unpredictable — not smooth. Real people are bumpy."
+        },
+        {
+          "page": 30,
+          "summary": "Joan's journal: The craft is designed to do away with itself."
+        }
+      ]
+    },
+    "ego_state": {
+      "name": "Ego-State",
+      "definition": "The actor's sense of self-worth and personal confidence, which directly affects tension levels and the ability to function on stage.",
+      "details": "Low ego-state leads to minimal faith in self and maximum anxiety/fear of failure. High ego-state allows functioning with less tension. Many actors in perpetually low ego-state due to childhood conditioning. A large number of exercises in the book are specifically designed to build ego-state quickly.",
+      "related_concepts": [
+        "tension",
+        "being",
+        "insecurity"
+      ],
+      "sources": [
+        {
+          "page": 49,
+          "summary": "Ego-state crucial to ability to function. Low ego-state = high anxiety. Many exercises for quickly building ego-state."
+        }
+      ]
+    },
+    "craft": {
+      "name": "Craft",
+      "definition": "The technical skill and practical knowledge the actor brings to work — sense memory, choices, preparations, etc. The antidote to insecurity and the vehicle for fulfilling material obligations.",
+      "details": "Craft exists to serve BEING, not replace it. Proper proportion: 90% BEING work, 10% technique. The craft of acting can be taught in six months — it is not hard. What is difficult are the obstacles to BEING. Both craft AND faith in the craft are required. The craft is designed to do away with itself. Like a surgeon who is confident because of skill and knowledge, the actor must have a craft they can count on.",
+      "related_concepts": [
+        "being",
+        "tension",
+        "ego_state",
+        "instrument"
+      ],
+      "sources": [
+        {
+          "page": 33,
+          "summary": "Craft easy to learn (6 months) — obstacles to BEING are the hard part. 90% BEING, 10% technique."
+        },
+        {
+          "page": 51,
+          "summary": "Craft is antidote to insecurity. Both craft AND faith are required."
+        }
+      ]
+    },
+    "jellybean": {
+      "name": "Jellybean",
+      "definition": "A short statement, thought, or concept used by the teacher to pinpoint specifics or inspire the actor to think in a certain area of craft or personal concern. Often replaces a long-winded critique.",
+      "details": "Examples used in the book: 'No Acting, Please'; 'Before Acting Must Come Being'; 'If You Start With An Empty Blackboard, You Can Write Anything On It'; 'The Unconscious Is Where Your Talent Lives'; 'Sometimes Less Is More.'",
+      "related_concepts": [
+        "being",
+        "craft"
+      ],
+      "sources": [
+        {
+          "page": 15,
+          "summary": "Jellybean defined: a statement designed to pinpoint specifics or inspire thinking in an area of craft or personal concern."
+        }
+      ]
+    },
+    "the_method": {
+      "name": "The Method",
+      "definition": "The Stanislavsky-derived acting system taught by Strasberg, Meisner, and others. Morris views it as incomplete because it presupposes the actor is connected to their inner self — which most actors are not.",
+      "details": "The separation between technique and personal reality is why many actors could not use the Stanislavsky system. Morris builds technique from the personal nucleus (BEING) outward. Joan studied with both Meisner and Strasberg — both discouraged personal exposure; work stayed stuck on an academic level. Only 2% of actors reportedly could use The Method — Morris rejected this pessimism.",
+      "related_concepts": [
+        "being",
+        "craft",
+        "organic_reality"
+      ],
+      "sources": [
+        {
+          "page": 13,
+          "summary": "Morris's early frustration with Method — worked for some, not others."
+        },
+        {
+          "page": 14,
+          "summary": "Stanislavsky system could not work for actors not connected to inner self."
+        },
+        {
+          "page": 30,
+          "summary": "Joan's journal: Meisner and Strasberg discouraged personal exposure. Work stuck on academic level."
+        }
+      ]
+    },
+    "vulnerability": {
+      "name": "Vulnerability",
+      "definition": "The openness to being affected, hurt, surprised, and moved — both emotionally and physically. A fundamental quality of talent and essential for BEING.",
+      "details": "Vulnerability and sensitivity are the positive elements of talent. The same elements that make an actor sensitive and vulnerable also make them insecure, anxious, depressed, and tense — two sides of the same coin. Actors who are shy and quiet are often extremely imaginative and affectable (strong impressive area) but may need help in the expressive area.",
+      "related_concepts": [
+        "being",
+        "tension",
+        "instrument"
+      ],
+      "sources": [
+        {
+          "page": 7,
+          "summary": "Jack Nicholson's foreword identifies vulnerability as a key topic."
+        },
+        {
+          "page": 26,
+          "summary": "Sensitivity, vulnerability, volatility are positive elements of talent — same elements also cause insecurity, anxiety, depression, tension."
+        },
+        {
+          "page": 38,
+          "summary": "Shy, quiet actors often imaginative and affectable but unable to express — need work on expressive area."
+        }
+      ]
+    },
+    "obligation": {
+      "name": "Obligation",
+      "definition": "That which exists in a scene indicating what the character feels — thus what the actor wants to feel. Every scene has emotional, theatrical, and social obligations the actor must fulfill.",
+      "details": "Obligations include the character's emotional state (despondent, alone, suicidal), relationship obligations (must love the other character), and circumstantial obligations (what the script demands). The actor does not jump directly to the obligation — they work from BEING toward the obligation through appropriate choices. Three types: instrumental (relating to the actor's instrument), relational (relating to other people and objects), and role obligations (fulfilling the character's emotional requirements).",
+      "related_concepts": [
+        "choice",
+        "being",
+        "sense_memory",
+        "preparation"
+      ],
+      "sources": [
+        {
+          "page": 133,
+          "summary": "Obligation defined: that which exists in the scene indicating what the character feels. Becomes what the actor wants to feel."
+        },
+        {
+          "page": 27,
+          "summary": "From BEING state, work through choice to reach the BEING state required by the material's obligation."
+        },
+        {
+          "page": 147,
+          "summary": "Three major categories of preparation correspond to three types of obligation: instrumental, relational, role."
+        }
+      ]
+    },
+    "choice": {
+      "name": "Choice",
+      "definition": "The object the actor selects to make them feel what the character feels. Sense memory is the process by which the choice is created. A choice can be almost anything — a person, place, object, sound, smell, time of year, feeling — as long as it works for the actor.",
+      "details": "A choice is the stimulus the actor uses sensorily to create the behavior and emotional life needed in the scene. Choice and obligation are linked: obligation tells you what to feel; choice is how you get there. Choices must be translated sensorily — the actor identifies what specific element of a complex experience to recreate. Good choices stimulate not just a single identifiable emotion but a complicated emotional life. Some choices need no translation (an obvious smell choice). Others require building up from the ground — creating a phone before creating a voice on the phone. The actor works for a choice at the cost of the material in rehearsal until discovering if that choice complements the material.",
+      "related_concepts": [
+        "obligation",
+        "sense_memory",
+        "being",
+        "preparation"
+      ],
+      "sources": [
+        {
+          "page": 133,
+          "summary": "Choice defined: the object the actor selects to make them feel what the character feels. Sense memory is how you create the choice."
+        },
+        {
+          "page": 135,
+          "summary": "Some choices need sensory translation — must build up sensory reality from ground level before working for the emotional element."
+        },
+        {
+          "page": 137,
+          "summary": "Work for choice at cost of material in rehearsal. If choice does not work, adjust or replace it."
+        }
+      ]
+    },
+    "preparation": {
+      "name": "Preparation",
+      "definition": "The work the actor does to reach a state where they can do their work. Acting is 95% preparation. Multiple types exist: lifelong instrumental preparations, daily practice, ego preparations, relational preparations, vulnerability preparations, and preparations for doing the role.",
+      "details": "Preparation is not just getting ready to say the lines. Many types exist: (1) Instrumental preparations — exercises related to the actor's own living and acting problems, tension, fear, inhibition; (2) Preparations for relating to people, objects, and places — exercises enabling connection outside of self; (3) Preparations for doing the role — getting ready to fulfill the emotional obligations of the material. The Cannon joke illustrates wrong preparation: getting so involved in extraneous preparation that the process hinders rather than helps. Always start by getting to what is — BEING — before selecting preparations. Preparation to prepare often precedes preparation to act. Daily practice is the foundation of all preparation: relaxation, sensitizing, Personal Inventory, sense memory, BEING exercises, self inventories.",
+      "related_concepts": [
+        "being",
+        "obligation",
+        "choice",
+        "ego_state",
+        "sense_memory",
+        "vulnerability"
+      ],
+      "sources": [
+        {
+          "page": 141,
+          "summary": "Acting is 95% preparation. If you are ready to act, then you can. Cannon joke illustrates wrong preparation."
+        },
+        {
+          "page": 142,
+          "summary": "Preparation defined: the work you do to get to the point where you can do your work. Many types exist."
+        },
+        {
+          "page": 147,
+          "summary": "Three major categories: instrumental preparations, relational preparations, preparations for doing the role."
+        },
+        {
+          "page": 143,
+          "summary": "Always start with getting to what is — BEING — before selecting preparations. Cannot service material's truths without your own truth first."
+        }
+      ]
+    },
+    "awareness": {
+      "name": "Awareness (Sensitizing)",
+      "definition": "The ongoing state of heightened perception and sensitivity to all sensory stimuli — internal and external — that allows the actor to be fully present and affectable. Awareness is trained through daily exercises.",
+      "details": "Awareness is an ongoing process, a daily conditioning. Preparations for elevating awareness should become a way of life. The instrument must be sensitized before other preparations can work. Sensory awareness covers all five senses plus kinesthetic sense. Super Consciousness is the deliberate decision to become hyper-aware of everything. Actors tend to be narcissistic and self-involved — awareness exercises force attention outward as well as inward.",
+      "related_concepts": [
+        "instrument",
+        "sense_memory",
+        "being",
+        "preparation"
+      ],
+      "sources": [
+        {
+          "page": 148,
+          "summary": "Awareness is an ongoing process, a daily conditioning. Preparations for elevating awareness should become a way of life."
+        },
+        {
+          "page": 149,
+          "summary": "Actors tend to be narcissistic and self-involved — awareness exercises force attention outward. Transcends from deliberate decision to becoming part of life."
+        }
+      ]
+    },
+    "imagination": {
+      "name": "Imagination",
+      "definition": "The actor's ability to pretend, create imaginary circumstances, and believe in realities that do not exist. Essential to all creative work, especially sense memory and choice creation.",
+      "details": "Everyone has imagination. Children's imaginations are available and usable, but social conditioning creates membranes that contain and subordinate it. Society does not encourage pretending in adults. Actors must work on imagination daily as part of living preparation. Start from your stretch point and go further — there are no boundaries to imagination within reason. Daily imaginative exercises must go hand-in-hand with ego preparations, sensitizing, sense memory, and vulnerability work.",
+      "related_concepts": [
+        "sense_memory",
+        "pretend",
+        "being",
+        "preparation"
+      ],
+      "sources": [
+        {
+          "page": 167,
+          "summary": "Everyone has imagination — children's is available but adults' goes to sleep due to social conditioning. Actors must work on it daily."
+        },
+        {
+          "page": 168,
+          "summary": "Start from your stretch point and go further. No boundaries to imagination. Must be part of daily living preparation."
+        }
+      ]
+    },
+    "kinesthetic_sense": {
+      "name": "Kinesthetic Sense",
+      "definition": "The muscular response to the presence or absence of objects and people around you. Knowing where things are without using sight.",
+      "details": "The kinesthetic sense tells the actor where other people and objects are in space through muscular awareness. This is trained through exercises like Kinesthetics (walking with eyes closed, sensing presence of objects). In choice work, the kinesthetic feeling of someone's presence (outside a door, behind you) can be used as a choice.",
+      "related_concepts": [
+        "sense_memory",
+        "awareness",
+        "instrument"
+      ],
+      "sources": [
+        {
+          "page": 130,
+          "summary": "Kinesthetic sense: muscular response to presence or absence of objects around you."
+        },
+        {
+          "page": 133,
+          "summary": "A choice can be the kinesthetic feeling of the presence of someone outside the door or in back of you."
+        }
+      ]
+    }
+  },
+  "techniques": {
+    "being_work": {
+      "name": "BEING Work",
+      "type": "instrumental",
+      "description": "The practice of finding and expressing total present-moment reality — including all impulses, interruptions, distractions, feelings — without editing, suppression, or intellectual control. The foundational practice of Morris's system.",
+      "instrumental_use": "Frees the actor from social obligation, suppression, and imposed behavior. Establishes ground-zero reality from which all creative work can spring. Must be done before any scene work.",
+      "craft_use": "Not directly a craft technique but the prerequisite for all craft. Once in a BEING state, actor shifts that state to meet scene obligations through choices and preparations.",
+      "when_to_use": "Always, as a way of life. Before scene work. Before auditions. As daily practice.",
+      "sources": [
+        {
+          "page": 15,
+          "summary": "BEING defined as working technique: to BE you must find out what you feel and express it totally."
+        },
+        {
+          "page": 43,
+          "summary": "BEING is primary and basic foundation."
+        }
+      ]
+    },
+    "personal_inventory": {
+      "name": "Personal Inventory",
+      "type": "instrumental",
+      "description": "A semi-audible stream-of-consciousness monologue in which the actor repeatedly asks 'How do I feel?' and expresses everything arising moment-to-moment. Foundational BEING exercise done anywhere, anytime.",
+      "instrumental_use": "Gets actor in touch with actual feelings. Trains actor to express everything going on moment-to-moment. Alleviates tension. Encourages BEING state.",
+      "craft_use": "Used as preparation before scene work to establish real BEING state.",
+      "when_to_use": "Multiple times daily. Before and after scene work. Anywhere — supermarkets, cars, restaurants.",
+      "sources": [
+        {
+          "page": 39,
+          "summary": "Personal Inventory I defined: semi-audible stream of consciousness, 'How do I feel?' repeated. 2-10 minutes, many times daily."
+        },
+        {
+          "page": 41,
+          "summary": "Personal Inventory II adds: 'Am I expressing how I feel, and if not, why not?' The WHY is most important."
+        }
+      ]
+    },
+    "sense_memory": {
+      "name": "Sense Memory",
+      "type": "craft",
+      "description": "A technique from the Stanislavsky tradition in which the actor uses sensory questions to recreate the physical and emotional reality of past experiences, objects, or imagined stimuli.",
+      "instrumental_use": "Can be adapted for deeply personal and private choices when used from a BEING-grounded approach — more personal choices yield more affecting results.",
+      "craft_use": "Primary craft tool for fulfilling scene obligations. Creates sensory realities — temperature, texture, smell, taste, sound — that produce genuine emotional responses needed for the material.",
+      "when_to_use": "When specific emotional or sensory states are required by the material. During preparation. In scene work.",
+      "sources": [
+        {
+          "page": 13,
+          "summary": "Sense memory listed as one of the Stanislavsky-derived techniques Morris initially used."
+        },
+        {
+          "page": 30,
+          "summary": "Joan: sense memory made much more specific and personal in Morris's approach so it could truly ignite work."
+        }
+      ]
+    },
+    "therapy_exercises": {
+      "name": "Therapy Exercises",
+      "type": "instrumental",
+      "description": "A class of exercises designed to break through specific acting/life problems rooted in social conditioning — vulgarity, sensuality, anti-social behavior — by deliberately doing the most difficult thing first.",
+      "instrumental_use": "Cracks the ice of social conditioning. Frees the actor from clusters of social mannerisms. Acting problems are life problems — therapy exercises address the life problem directly.",
+      "craft_use": "Not craft in the traditional sense, but foundational to all craft by freeing the instrument.",
+      "when_to_use": "When the actor has specific conditioning-based blocks — propriety concerns, inability to be vulnerable, etc.",
+      "sources": [
+        {
+          "page": 15,
+          "summary": "Therapy exercises: vulgarity, sensuality, anti-social. Doing most difficult thing first frees a cluster of social mannerisms."
+        },
+        {
+          "page": 25,
+          "summary": "Therapy exercises solved persistent problems immediately."
+        }
+      ]
+    },
+    "rounds": {
+      "name": "Rounds",
+      "type": "instrumental",
+      "description": "Group exercises in which actors encounter each other with extreme honesty and personal revelation — reluctancy exercises, honesty stream of consciousness, ego reconstruction — designed to break social impositions.",
+      "instrumental_use": "Encourages extreme personal encounter. Eliminates social impositional life. Allows actors to experience real moments with each other without concern for imagined consequences.",
+      "craft_use": "Builds relating skills, sensitivity to partners, and genuine connection that carries into scene work.",
+      "when_to_use": "In class/workshop settings, especially early in training and whenever actors become too polite or disconnected.",
+      "sources": [
+        {
+          "page": 14,
+          "summary": "Rounds described: Reluctancy Exercises, Honesty Stream of Consciousness, Ego Reconstructions. Required extreme personal encounter."
+        }
+      ]
+    },
+    "choice_work": {
+      "name": "Choice Work (Working for a Choice)",
+      "type": "craft",
+      "description": "The process by which the actor asks sensory questions and lets the senses answer, committing totally to that process even at the cost of the scene, until the process produces behavioral results.",
+      "instrumental_use": "By committing to the sensory process, the actor avoids intellectualizing and connects to genuine organic response.",
+      "craft_use": "Primary craft tool for meeting scene obligations. Select a choice and use sensory questions to make it real. If behavior does not match scene needs, adjust or replace choice.",
+      "when_to_use": "When there is a gap between current BEING state and the emotional state required by the material.",
+      "sources": [
+        {
+          "page": 33,
+          "summary": "Working for a choice: ask sensory questions, let senses answer, commit totally even at cost of scene until behavioral fruit results."
+        }
+      ]
+    },
+    "ego_preparations": {
+      "name": "Ego Preparations",
+      "type": "instrumental",
+      "description": "A large category (75+ exercises) designed to help the actor change their ego-state to a better one in which they can feel like working and allow themselves to succeed. Each exercise addresses a different ego difficulty.",
+      "instrumental_use": "Directly addresses low ego-state, insecurities, depression, and lack of self-worth that create tension and block functioning. The actor selects the exercise that matches their specific ego difficulty at that moment.",
+      "craft_use": "Can also be used as a choice to fulfill emotional obligations in a scene — reversing an ego exercise to bring yourself down, or using it to lift state before sinking into required depression.",
+      "when_to_use": "When the ego-state is low and blocking access to craft and talent. At the beginning of rehearsal. Before performing. Whenever the ego demons are whispering.",
+      "sources": [
+        {
+          "page": 154,
+          "summary": "Ego Preparations defined: at least 75 exercises to help actor change ego-state to a better one. Each addresses different ego difficulty."
+        },
+        {
+          "page": 155,
+          "summary": "Can use ego exercise as choice to fulfill emotional obligations — reverse to bring down, or lift state before sinking into required depression."
+        }
+      ]
+    },
+    "vulnerability_preparations": {
+      "name": "Vulnerability Preparations",
+      "type": "instrumental",
+      "description": "Exercises that stimulate the actor's ability to be sensitive and affected — to be open to both real and imaginary stimuli. They increase the threshold of availability on a day-to-day and acting level.",
+      "instrumental_use": "Makes the actor ready to be affected. Increases sensitivity to real and imaginary stimuli. More vulnerability in life means more affectability in acting.",
+      "craft_use": "Can also fulfill emotional obligations in a scene. Must achieve vulnerability before playing an uptight or closed character — must get what is underneath before playing the surface.",
+      "when_to_use": "Before any scene work. When the actor is insulated or protected. When the scene requires emotional openness. In daily preparation.",
+      "sources": [
+        {
+          "page": 160,
+          "summary": "Vulnerability preparations stimulate ability to be sensitive and affected by real and imaginary stimuli."
+        },
+        {
+          "page": 161,
+          "summary": "Must achieve vulnerability before playing an uptight character — must find what is underneath. Vulnerability feels naked and unacty but is essential."
+        }
+      ]
+    },
+    "imagination_preparations": {
+      "name": "Preparations for the Imagination",
+      "type": "instrumental",
+      "description": "Exercises designed to stretch and stimulate the actor's imagination, helping them to create imaginary realities and to believe in circumstances that do not exist.",
+      "instrumental_use": "Opens up the actor's capacity to pretend, create, and believe in imaginary circumstances. Essential for sense memory, choice work, and all creative acting.",
+      "craft_use": "Pretend can be used directly as a choice in a scene. Storytelling and fantasy exercises generate material for imaginary choices.",
+      "when_to_use": "Daily, as part of living preparation. Before rehearsals. Whenever imagination feels constrained or dry.",
+      "sources": [
+        {
+          "page": 167,
+          "summary": "Preparations for imagination: must work on it daily as part of living preparation, stretching belief that anything is imaginatively possible."
+        }
+      ]
+    },
+    "affective_memory": {
+      "name": "Affective Memory (Emotional Memory)",
+      "type": "craft",
+      "description": "A Stanislavsky-derived technique in which the actor re-experiences past emotional events to generate genuine feelings. Morris uses it selectively, particularly in the Get a Sense of What You Used to Be exercise.",
+      "instrumental_use": "Can re-experience the actor's past self to build morale and perspective on growth.",
+      "craft_use": "Can be used to re-experience past emotional events for use in a scene. However, Morris cautions against retrospective/intellectual use — the experience must be sensorily re-created, not just remembered.",
+      "when_to_use": "When the actor needs to reconnect with past emotional experiences for use as choices. Must be done sensorily, not intellectually.",
+      "sources": [
+        {
+          "page": 13,
+          "summary": "Affective memory listed as one of the Stanislavsky-derived techniques Morris initially used."
+        },
+        {
+          "page": 155,
+          "summary": "Get a Sense of What You Used to Be: affective memory exercise to re-experience the actor's past self."
+        }
+      ]
+    },
+    "observer_wonder_perceive": {
+      "name": "Observe, Wonder and Perceive",
+      "type": "both",
+      "description": "An awareness exercise in which the actor observes what is obviously present, perceives what lies behind the obvious, and wonders about what they cannot know for certain. Done alone or with a partner.",
+      "instrumental_use": "Develops observational skills, sensory awareness, and curiosity. Pulls the actor out of self-involvement and narcissism. Trains the habit of being aware of someone other than yourself.",
+      "craft_use": "Used as a preparation to get related to a partner before a scene or rehearsal. Generates a living relationship through genuine investigation. A good way to start a rehearsal.",
+      "when_to_use": "Daily, as awareness training. Before any scene work with a partner. Anytime the actor is too in their own head.",
+      "sources": [
+        {
+          "page": 90,
+          "summary": "Observe, Wonder and Perceive II: two-people version. Observe what is obviously there, perceive behind it, wonder about what cannot be known."
+        },
+        {
+          "page": 149,
+          "summary": "Actors are narcissistic — Observe, Wonder and Perceive trains attention on others. Transcends from deliberate decision to becoming part of life."
+        }
+      ]
+    }
+  },
+  "exercises": {
+    "personal_inventory_i": {
+      "name": "Personal Inventory I",
+      "goal": "To get the actor in touch with what they are feeling moment-to-moment and train the habit of expressing all ongoing inner life.",
+      "how_to": "Do a semi-audible stream-of-consciousness monologue, asking 'How do I feel?' repeatedly. Speak quietly enough that only you can hear yourself. Continue for 2-10 minutes. Include everything that interrupts or distracts — a noise, a physical sensation, a thought. Include all of it verbally.",
+      "who_should_do_it": "All actors at any level. Especially valuable for actors who are out of touch with their feelings or who tend to suppress or intellectualize.",
+      "why_it_works": "The repeated question prevents intellectual wandering and keeps attention on present-moment feeling. Including distractions trains inclusive awareness. Alleviates tension. Builds BEING habit.",
+      "technique_type": "instrumental",
+      "related_technique": "being_work",
+      "additional_info": "Can be done anywhere — supermarket, car, restaurant. Multiple times daily. Not every expression needs to be verbal — sighs and grunts count.",
+      "sources": [
+        {
+          "page": 39,
+          "summary": "Exercise defined with full example dialogue. 2-10 minutes, semi-audible, anywhere, many times daily."
+        }
+      ]
+    },
+    "one_person_being": {
+      "name": "One-Person BEING",
+      "goal": "To practice BEING in its fullest form — allowing and expressing everything felt, vocally, verbally, and physically, without restriction.",
+      "how_to": "Follow Personal Inventory. Stop asking 'How do I feel?' and simply BE. Allow all feelings to express themselves vocally, verbally, and physically. Acknowledge obstacles that get in the way. If you start to comment on or interfere with your impulses, include the commentary, then follow the underlying true impulses. Can be done sitting, standing, or lying down.",
+      "who_should_do_it": "All actors. Good follow-on to Personal Inventory. Especially important for actors who suppress or who are overly controlled.",
+      "why_it_works": "One expression gives way to the next — flow of reality becomes compelling. Allows actor to find personal gap between obligation and impulse. Reveals what is being avoided.",
+      "technique_type": "instrumental",
+      "related_technique": "being_work",
+      "additional_info": "See taped dialogue with E.J. in Chapter 1 for practical example of what BEING looks and feels like in practice.",
+      "sources": [
+        {
+          "page": 39,
+          "summary": "Exercise defined: follow Personal Inventory, stop asking the question, just BE."
+        },
+        {
+          "page": 41,
+          "summary": "One expression gives way to next. Find gap between obligation and impulse."
+        }
+      ]
+    },
+    "personal_inventory_ii": {
+      "name": "Personal Inventory II",
+      "goal": "To deepen awareness of inner life and identify what blocks expression, adding self-examination: 'Am I expressing how I feel, and if not, why not?'",
+      "how_to": "Do Personal Inventory I. Then add the question: 'Am I expressing how I feel?' If no, ask 'Why not?' The WHY is most important — it reveals what stops BEING. Then ask: 'What can I do to express it within the framework of consequences?' When consequences are too large, make a conscious choice not to act — do not suppress the impulse entirely.",
+      "who_should_do_it": "All actors. Especially useful once Personal Inventory I is established as a habit.",
+      "why_it_works": "Prevents the exercise from becoming cerebral gymnastics by turning it into active self-investigation. The WHY opens up knowledge of what stops BEING. Conscious choice not to act is less stifling than suppression.",
+      "technique_type": "instrumental",
+      "related_technique": "personal_inventory",
+      "additional_info": "Conscious choice not to act on an impulse is less stifling than suppression. You are entitled to all your emotions.",
+      "sources": [
+        {
+          "page": 41,
+          "summary": "Adds 'Am I expressing how I feel, and if not, why not?' The WHY reveals blocks. Conscious choice vs. suppression distinction."
+        }
+      ]
+    },
+    "i_am_i_want_i_need_i_feel": {
+      "name": "I Am, I Want, I Need, I Feel",
+      "goal": "To surprise the actor with impulses and feelings by forcing rapid, impulsive self-expression in a structured format before intellectual editing can occur.",
+      "how_to": "Speak aloud rapidly in stream-of-consciousness, starting every sentence with one of the four statements (not necessarily in order): 'I am...', 'I want...', 'I need...', 'I feel...' Respond impulsively — do not take a beat to think. If you go blank, say the first thing that comes to mind no matter how illogical.",
+      "who_should_do_it": "All actors. Especially valuable for those who intellectualize or premeditate their responses.",
+      "why_it_works": "The rapid format and structured categories prevent the conditioned mind from filling the blank with prepared responses. Impulsiveness bypasses the censor and produces real feelings.",
+      "technique_type": "instrumental",
+      "related_technique": "being_work",
+      "additional_info": "Can repeat the four stems many times. Encourage going back and forth between the four statements.",
+      "sources": [
+        {
+          "page": 42,
+          "summary": "Exercise defined: rapid, impulsive, structured format. Purpose is to surprise yourself with what comes out."
+        }
+      ]
+    },
+    "what_do_i_want": {
+      "name": "What Do I Want?",
+      "goal": "To discover underlying life desires — both immediate and philosophical — by repeating the question 'What do I want?'",
+      "how_to": "Like Personal Inventory, but ask 'What do I want?' instead of 'How do I feel?' Start on here-and-now level to encourage free flow and avoid becoming heady. Gradually move to larger questions about what you want in life. More reflective, not impulsive.",
+      "who_should_do_it": "All actors. Especially those disconnected from their deeper motivations and desires.",
+      "why_it_works": "Connects actor to underlying drives and desires, which are the engine of behavior. Starting with immediate wants grounds the exercise before moving to philosophical overview.",
+      "technique_type": "instrumental",
+      "related_technique": "personal_inventory",
+      "additional_info": "Can be included within Personal Inventory instead of doing separately.",
+      "sources": [
+        {
+          "page": 43,
+          "summary": "Exercise defined: 'What do I want?' replacing 'How do I feel?' Not impulsive but reflective. Start here-and-now, move to larger life desires."
+        }
+      ]
+    },
+    "vulgarity_exercise": {
+      "name": "Vulgarity Exercise",
+      "goal": "To break through propriety-based social conditioning that restricts an actor's freedom of expression, by doing taboo behaviors in a supportive class environment.",
+      "how_to": "In front of the class, engage in crude, socially prohibited behavior — picking nose, scratching, belching, using profanity, physical crudeness. The class provides acceptance and encouragement. Even partial completion cracks the ice.",
+      "who_should_do_it": "Actors whose propriety concerns or social conditioning are creating a cluster of mannerisms blocking real feelings. Especially those from strict or conservative backgrounds.",
+      "why_it_works": "After even partial completion, actor is freed from an entire cluster of social mannerisms that stood between them and real feelings. The class atmosphere is permissive, supporting awareness that the actor has the right to do these things.",
+      "technique_type": "instrumental",
+      "related_technique": "therapy_exercises",
+      "additional_info": "Similar exercises include Sensuality and Anti-Social. Doing the most difficult thing first eliminates less difficult problems in one fell swoop.",
+      "sources": [
+        {
+          "page": 15,
+          "summary": "Vulgarity exercise described: pick nose, scratch, belch, profanity. Even partial completion frees cluster of social mannerisms."
+        }
+      ]
+    },
+    "ego_reconstruction": {
+      "name": "Ego Reconstruction",
+      "goal": "To help actors perceive each other more clearly and receive constructive, honest feedback that builds self-awareness and self-worth.",
+      "how_to": "Sitting in a circle (the round), observe and perceive the people around you. Express to individuals your perception of them in a way you feel would be constructive or helpful to their growth. Only one person speaks at a time — avoid two-way conversations. Whether you agree or disagree with what is said to you, just listen. Two limitations: you may not be cruel for the sake of being cruel, and you may not violate anyone's privacy without permission.",
+      "who_should_do_it": "Acting class groups and rehearsal groups. Led by a skillful and responsible leader.",
+      "why_it_works": "The exercise is as beneficial for the person expressing as for the one hearing. When an actor hears the same things said to them over a period of time, they begin to accept them as valid. People are surprisingly affirmative in this exercise.",
+      "technique_type": "instrumental",
+      "related_technique": "rounds",
+      "additional_info": "Part of the Rounds family. Done in a circle. Leader enforces no cruelty and no privacy violations.",
+      "sources": [
+        {
+          "page": 80,
+          "summary": "Ego Reconstruction: round exercise expressing constructive perceptions of others. Beneficial for both speaker and listener."
+        }
+      ]
+    },
+    "reluctancy": {
+      "name": "Reluctancy",
+      "goal": "To progressively open all of the actor's doors of expression by having them expose things they are uncomfortable, ashamed, or afraid to say publicly. Teaches that fear of the skeletons in the closet is unfounded.",
+      "how_to": "Done in the round. Categories: Self Reluctancy (anything about yourself that is difficult to say), Encounter Reluctancy (things you are reticent to say to another person in the room), Physical Reluctancy (anything about your body that concerns you), Sexual Reluctancy (anything sexual you feel reluctant to express). Avoid two-way conversations. The leader maintains control and safety. No assaulting or hurting others.",
+      "who_should_do_it": "Not for casual rehearsal groups. Must be led by a skillful and responsible leader in a group that meets regularly.",
+      "why_it_works": "The inhibitions you start with disappear over time, and this freedom carries directly into acting. The more you expose yourself in Reluctancy, the more areas are open to you on stage. Everybody has skeletons — it is okay.",
+      "technique_type": "instrumental",
+      "related_technique": "rounds",
+      "additional_info": "Can be dangerous without a skilled, responsible leader. Over time it is exciting, sometimes explosive, often funny, and always freeing.",
+      "sources": [
+        {
+          "page": 81,
+          "summary": "Reluctancy defined: expression of things you are uncomfortable, ashamed, or reluctant to say. Four categories. Progressive opening of expression."
+        },
+        {
+          "page": 82,
+          "summary": "Reluctancy opens all doors. Freedom carries into acting. There is only you — the character is you."
+        }
+      ]
+    },
+    "how_i_see_myself": {
+      "name": "How I See Myself (Self Image)",
+      "goal": "To examine the actor's self-image and compare it with how others actually perceive them, identifying gaps between self-perception and reality.",
+      "how_to": "Done in the round, individually and voluntarily (or called on by the leader). In 2-10 minutes, talk about how you see yourself — not how you think others see you, but how you feel you are. Cover all facets of yourself. When finished, ask the group for feedback: Is the way I see myself consistent with the way you see me? Multiple people give feedback.",
+      "who_should_do_it": "Acting class groups, ideally with an experienced leader. Anyone who needs clarity on the gap between self-image and reality.",
+      "why_it_works": "Invaluable for dealing with inconsistencies between what you think you are and what you actually are. The feedback directs you specifically to areas that need work. Sometimes a person's self-image is delusional — feedback brings reality.",
+      "technique_type": "instrumental",
+      "related_technique": "rounds",
+      "additional_info": "Feedback can come from 7-8 people or all group members in marathons. The trap is second-guessing what others think — stay true to your actual self-image.",
+      "sources": [
+        {
+          "page": 83,
+          "summary": "How I See Myself: 2-10 minutes talking about your self-image, then asking for group feedback. Invaluable for identifying gaps between self-image and reality."
+        },
+        {
+          "page": 86,
+          "summary": "Feedback reveals inconsistencies between what you think you are and what you actually are, directing you to areas needing work."
+        }
+      ]
+    },
+    "feedback_exercise": {
+      "name": "Feedback",
+      "goal": "To help the actor understand themselves better through direct, specific feedback from others, and to practice asking for response and reaching out to people.",
+      "how_to": "Done in the round, strictly voluntary. Two ways: (1) Based on George Bach's mind-reading exercise — state what you imagine someone thinks about you and ask if it is true. (2) Ask a specific person for feedback in a specific area. The person asked can demand more specificity. Both approaches can be combined.",
+      "who_should_do_it": "Suitable for rehearsal groups as well as classes — it can flush out negative mind-readings that impede creative work (e.g., actor who thinks director hates him).",
+      "why_it_works": "Encourages reaching out to people and asking for response. Self-regulatory — you only participate if you want to. Flushes out negative projections and false assumptions about what others think.",
+      "technique_type": "instrumental",
+      "related_technique": "rounds",
+      "additional_info": "Especially useful in rehearsal settings to address interpersonal tensions before they undermine the work.",
+      "sources": [
+        {
+          "page": 86,
+          "summary": "Feedback exercise: two ways — mind-reading check and specific feedback request. Encourages reaching out to people."
+        },
+        {
+          "page": 87,
+          "summary": "Good for rehearsal groups — flushes out negative mind-readings that impede creative work. Self-regulatory."
+        }
+      ]
+    },
+    "two_people_being": {
+      "name": "Two-People BEING",
+      "goal": "A four-part preparation exercise to establish BEING with a partner, get related, begin sensory work, and prepare for scene work.",
+      "how_to": "Part 1: Both actors semi-audibly express all anxieties and tensions about being in front of the group in stream-of-consciousness style. Part 2: Observe-Wonder-Perceive your partner. Part 3: Work for a simple sensory choice in relation to your partner without obligating to any result (e.g., create eyeglasses on partner, different hair color, specific look in eyes). Part 4: If preparing for a scene, begin working for your first choice in that scene; if just a BEING exercise, obligate yourself to something you want to feel toward your partner (jealousy, desire, compassion, fear) and work sensorily for it. Throughout, acknowledge and express anything that intrudes on your awareness.",
+      "who_should_do_it": "Any two actors who are about to rehearse together, do a scene, or audition together. Also valuable as a daily BEING practice.",
+      "why_it_works": "Addresses tension about performing for others, gets partners truly involved with each other rather than performing, and transitions naturally into choice work for the scene.",
+      "technique_type": "instrumental",
+      "related_technique": "being_work",
+      "additional_info": "Important to remain standing throughout — intensifies the feeling of being on the spot. Make the obligation specific: not general jealousy but what you are jealous about specifically.",
+      "sources": [
+        {
+          "page": 92,
+          "summary": "Two-People BEING: four-part exercise. Semi-audible acknowledgment of anxieties, Observe-Wonder-Perceive, simple sensory choice, then scene choice or obligation choice."
+        },
+        {
+          "page": 93,
+          "summary": "BEING exercise gets actor in touch with who they are, what they feel, how they're functioning here and now. That reality is the only place you can act from organically."
+        }
+      ]
+    },
+    "rock_and_stroke": {
+      "name": "Rock and Stroke",
+      "goal": "To open up warmth, softness, and loving vulnerability between two people by engaging a primal need to be held and comforted.",
+      "how_to": "Two people sit on the floor. One cradles the other in their lap (as you might with a small child) and rocks them gently, petting and stroking, possibly humming a lullaby. Both give themselves totally to the exercise. After 5-10 minutes, the rocker becomes the rockee. Non-verbal. Men can do it with men and women with women.",
+      "who_should_do_it": "Any two actors. Particularly effective for people who are tense, closed, or defended. Excellent for starting or ending a rehearsal or class.",
+      "why_it_works": "Pushes a primal button — the basic need to be held and stroked. Results are startling: people become mellow, soft, open, warm, and loving.",
+      "technique_type": "instrumental",
+      "related_technique": "vulnerability_preparations",
+      "additional_info": "Not a sexual exercise. Marvelous for starting or ending rehearsals or classes.",
+      "sources": [
+        {
+          "page": 93,
+          "summary": "Rock and Stroke: one person cradles the other and rocks gently for 5-10 minutes, then reverses. Pushes primal button. Results: mellow, soft, open, warm, loving."
+        }
+      ]
+    },
+    "hold_hands_look_at_each_other": {
+      "name": "Hold Hands and Look at Each Other",
+      "goal": "To begin a genuine relationship between two actors through sustained, undefended eye contact and physical connection.",
+      "how_to": "Two people sit and hold each other's hands comfortably, looking into each other's eyes. Allow and encourage everything that happens to happen. At first you might be embarrassed and want to look away. Continue for at least 15 minutes (best results with long duration). No talking allowed.",
+      "who_should_do_it": "Any two actors, especially those who do not know each other or who have a superficial relationship.",
+      "why_it_works": "Sustained eye contact and physical connection bypass social defenses and produce genuine emotional responses. At the end of the exercise a real relationship has begun which can go in any direction.",
+      "technique_type": "instrumental",
+      "related_technique": "vulnerability_preparations",
+      "additional_info": "Best results when done for a long period of time — at least 15 minutes.",
+      "sources": [
+        {
+          "page": 87,
+          "summary": "Hold Hands and Look at Each Other: 15+ minutes of eye contact while holding hands. No talking. Many feelings expressed. A real relationship begins."
+        }
+      ]
+    },
+    "sense_memory_exercise": {
+      "name": "The Sense Memory Exercise (Core Practice)",
+      "goal": "To train the senses to recreate objects that are not present, building the foundational craft skill for all choice work in acting.",
+      "how_to": "Select an object (ideally food or drink to engage all five senses). Place it in front of you. Ask sensory questions systematically through each sense category (spatial, visual, tactile, temperature, olfactory, taste, auditory), spending time in each category before moving to the next. Do not use labels or descriptive language — let senses supply answers. Work with the real object, then put it aside and ask the same questions working without it (imaginary). Compare to catch what was missed. Return to real object. Repeat this cycle. Eventually do entire exercise without the object. Chronological order of action: place object, approach object, lift, bring to face, taste, swallow, replace.",
+      "who_should_do_it": "All actors at all levels. Must be practiced daily. Beginners: 45 min to 1 hour daily with inanimate objects. Advanced: multiple objects at different stages simultaneously.",
+      "why_it_works": "Trains senses to respond to imaginary stimuli. The same ability that allows recreating a coffee cup allows recreating a suicidal emotional reality. Sense memory is the cornerstone of the craftual foundation. With years of practice, the response becomes unconscious and automatic.",
+      "technique_type": "craft",
+      "related_technique": "sense_memory",
+      "additional_info": "Key rules: no language answers (not 'hot' but the sensation itself), categorical question support required, chronological order must be respected, senses can be intermingled but support each other. Sense memory is not pantomime and not intellectual — it takes place in the senses. Practice 45 min to 3 hours daily.",
+      "sources": [
+        {
+          "page": 99,
+          "summary": "Sense Memory Exercise detailed: select object, ask sensory questions by category, work with and without object. Cornerstone of craftual foundation."
+        },
+        {
+          "page": 114,
+          "summary": "About the Sense Memory Exercise: must be practiced daily. Will elicit unconscious organic responses of astounding dimension."
+        },
+        {
+          "page": 126,
+          "summary": "Sense memory must become part of your philosophy — a way of living, not just a clinical exercise."
+        }
+      ]
+    },
+    "cluster_of_four": {
+      "name": "The Cluster of Four",
+      "goal": "An ideally balanced group of four exercises to begin any class, rehearsal, or work session. Systematically addresses tension, awareness, feeling, and desire.",
+      "how_to": "In sequence: (1) Relaxation exercise (Logey, Tense and Relax, Deep Breathing, Rag Doll, or similar); (2) Sensitizing — raising your senses to higher levels of sensitivity; (3) Personal Inventory — finding out how you feel; (4) What Do I Want — as part of Personal Inventory. The sequence is not accidental: address physical tension first so you can sensitize, then find out how you feel and what you want.",
+      "who_should_do_it": "Any actor at the start of a work session. Used in class every week for years as the standard opening exercise.",
+      "why_it_works": "The sequence is carefully ordered: relaxation enables sensitizing; sensitizing enables honest Personal Inventory; Personal Inventory grounds the actor in reality before creative work begins.",
+      "technique_type": "instrumental",
+      "related_technique": "preparation",
+      "additional_info": "Morris used this to start every class for years. Sensuality exercise works well following the Cluster of Four.",
+      "sources": [
+        {
+          "page": 148,
+          "summary": "Cluster of Four: relaxation, sensitizing, Personal Inventory, What Do I Want. Sequence arrived at by trial and error. Used to start every class."
+        }
+      ]
+    },
+    "being_workout": {
+      "name": "The BEING Workout",
+      "goal": "To build the habit of eliminating obstacles that keep the actor from being themselves with anyone, by practicing BEING with a series of changing partners.",
+      "how_to": "Done with a series of changing partners in a group or acting class. With each partner: start by relating on a here-and-now basis, acknowledging all distractions. Deal with all obstacles between you and the other person (fear, social obligation, sexual attraction, hostility, unsaid feelings, lack of interest). Express these audibly or semi-audibly. Once obstacles are acknowledged and expressed, BE. Repeat with each changing partner.",
+      "who_should_do_it": "Acting class groups. Can also be adapted for daily BEING practice by doing it encounter-style with each person you meet in life.",
+      "why_it_works": "Repetition builds the habit of eliminating obstacles to BEING with anyone. Each person presents a different set of obstacles. The goal is to accept life as it is and become more comfortable with uncomfortable feelings.",
+      "technique_type": "instrumental",
+      "related_technique": "being_work",
+      "additional_info": "Can be adapted for daily encounter-style practice with anyone met in daily life.",
+      "sources": [
+        {
+          "page": 144,
+          "summary": "BEING Workout: series of changing partners, each time acknowledging obstacles to BEING then BEing. Builds habit of eliminating obstacles with anyone."
+        }
+      ]
+    },
+    "evocative_words": {
+      "name": "Evocative Words",
+      "goal": "To stimulate emotional vulnerability and life by saying single words or brief phrases connected to a meaningful experience, bypassing the storytelling/reporting impulse.",
+      "how_to": "Think of a meaningful experience. Instead of telling the story, say single words or brief phrases connected to that time and place — people, what they wore, objects, sounds, weather, etc. Say them audibly or semi-audibly. Do not explain or report. Example: 'Park. Bench. Trees. Children playing. Carousel music. Excitement. Blue sky. He's coming. Blond. Graduation ring. Serious eyes. No. Please. Lost. Cold.' If pleased with the vulnerability level, stop. If wanting more, move to another experience.",
+      "who_should_do_it": "All actors. Useful alone, in front of a group, or as a choice in a scene.",
+      "why_it_works": "When you tell the story, the obligation to be understood takes precedence over being emotionally affected. Single words bypass the reporting impulse and go directly to emotional impact.",
+      "technique_type": "both",
+      "related_technique": "vulnerability_preparations",
+      "additional_info": "Can be used as a preparation before going on stage, as a choice in a scene (saying words between lines to stimulate emotional life), or for vulnerability work. Discovered by accident while working with an actress named Carey.",
+      "sources": [
+        {
+          "page": 163,
+          "summary": "Evocative Words: say single words connected to a meaningful experience instead of telling the story. Bypasses the reporting impulse and goes directly to emotional impact."
+        },
+        {
+          "page": 164,
+          "summary": "Can use as preparation, as choice in a scene (saying words between lines), or for vulnerability. Discovered by accident."
+        }
+      ]
+    },
+    "imaginary_monologue": {
+      "name": "Imaginary Monologue",
+      "goal": "To elicit meaningful gut-level emotional investments by speaking to an absent person as if they were present, covering things that would be difficult or impossible to say in reality.",
+      "how_to": "Talk to someone who is not present as if they really were there. Speak about things that would be either difficult or impossible to say if the person were really present. Can be done for vulnerability, as a preparation before a scene, or as a choice within a scene. Can be directed toward someone you love, someone who is dead, a parent, grandparent, or any significant person.",
+      "who_should_do_it": "All actors. Particularly valuable when emotional investment in a relationship is needed. Useful in many contexts.",
+      "why_it_works": "Without the consequence of the other person actually being present, the actor can say what they truly feel, eliciting genuine gut-level emotional responses. Originally called the Steering Wheel Monologue because Morris did it while driving.",
+      "technique_type": "both",
+      "related_technique": "vulnerability_preparations",
+      "additional_info": "Can also be used in a scene as an imaginary monologue to a real partner but talking to someone else (exercise #48), or as a dialogue with a real partner while taking personally what is said (exercise #49).",
+      "sources": [
+        {
+          "page": 165,
+          "summary": "Imaginary Monologue: talk to someone absent as if present, covering things impossible to say in reality. Elicits gut-level emotional investments."
+        }
+      ]
+    },
+    "sensory_inventory": {
+      "name": "Sensory Inventory",
+      "goal": "To investigate all five senses and discover how they work, how they are affected by stimuli, and what specific questions appeal to each sense.",
+      "how_to": "Systematically investigate all your senses and what makes them work. Ask how each sense responds to real objects. Take an emotional inventory alongside the sensory one — how do you feel about each object? Practice approaching objects you normally take for granted with all your senses. Daily repetition progressively raises sensory acuity.",
+      "who_should_do_it": "All actors. Daily practice. Essential preparation for sense memory work.",
+      "why_it_works": "As you repeat daily, more and more parts of each sense begin to function. It is an endless investigation that stimulates increasingly higher levels of sensory awareness.",
+      "technique_type": "instrumental",
+      "related_technique": "sense_memory",
+      "additional_info": "Helps the actor discover which sense is strongest and which need more work. Reveals the specific questions that appeal to the actor's personal sensory apparatus.",
+      "sources": [
+        {
+          "page": 150,
+          "summary": "Sensory Inventory: investigation of all senses. As you repeat day by day, sensory acuity grows. Endless investigation stimulating increasingly higher awareness."
+        }
+      ]
+    },
+    "sensuality_exercise": {
+      "name": "Sensuality Exercise",
+      "goal": "To increase awareness and sensory availability of the entire body by engaging in uninhibited sensual exploration of self, objects, and (optionally) other people.",
+      "how_to": "Three parts: (1) Sensuality toward your own body — touch yourself all over sensorily and sensually, feeling shapes and contours, encouraging your body to respond to your hands, including genital areas and any sexual response. Let your body find its own sensual rhythm and movement. (2) Sensuality toward inanimate objects — relate sensually to wall, floor, rug, chair, etc. Expose all parts of body to object. (3) Sensuality toward people — touch hands, cheek to thigh, face in hair, back to back rhythmic contact. Taste, smell, and touch things you would conventionally avoid. Variation: Primal Sensuality — same exercise but more animal and primitive in movements and sounds.",
+      "who_should_do_it": "All actors. Effective following the Cluster of Four. Both solo and group versions.",
+      "why_it_works": "Increases awareness and sensory availability of the entire body. Breaks down barriers more quickly, especially in the Primal Sensuality variation.",
+      "technique_type": "instrumental",
+      "related_technique": "awareness",
+      "additional_info": "May stimulate sexuality — acceptable if working for that purpose, but main purpose is bodily awareness and sensory availability. Primal Sensuality variation breaks down barriers more quickly.",
+      "sources": [
+        {
+          "page": 150,
+          "summary": "Sensuality: three-part exercise. (1) self, (2) inanimate objects, (3) people. Increases awareness and sensory availability of entire body."
+        },
+        {
+          "page": 151,
+          "summary": "Primal Sensuality variation: more animal and primitive movements and sounds. Breaks down barriers more quickly."
+        }
+      ]
+    },
+    "super_consciousness": {
+      "name": "Super Consciousness",
+      "goal": "To deliberately and temporarily elevate awareness to an extreme level, training a permanently higher baseline level of awareness through daily repetition.",
+      "how_to": "Make an arbitrary decision to become super conscious, super aware of everything in all five sensory areas. Decide to hear every possible sound from most obvious to most subtle. Devour everything through all five senses. Do it for 10-15 minutes.",
+      "who_should_do_it": "All actors, as part of daily awareness preparation.",
+      "why_it_works": "Daily repetition of Super Consciousness automatically raises your level of awareness even when not deliberately exercising it.",
+      "technique_type": "instrumental",
+      "related_technique": "awareness",
+      "additional_info": "Somewhat unnatural — the acute observations may make natural relating to others difficult during the exercise. But daily repetition makes the elevated awareness automatic.",
+      "sources": [
+        {
+          "page": 148,
+          "summary": "Super Consciousness: deliberate decision to become super aware of everything in all five sensory areas for 10-15 minutes. Daily repetition automatically raises awareness level."
+        }
+      ]
+    },
+    "positivity_and_validation": {
+      "name": "Positivity and Validation",
+      "goal": "To change a negative ego-state to a positive one through deliberate focus on positive aspects of the self and environment.",
+      "how_to": "Two approaches: (1) Start with whatever positive impulses you genuinely feel and verbalize them, building from there. If this leads to more positive feelings, good. If not, begin to exaggerate. (2) When so negative that even thinking positive seems impossible, make an arbitrary commitment to say only positive things about everything you see, hear, taste, smell, and touch — even if it means lying at first. Validation variation: go around the room and express supportive, validating thoughts about each person honestly. By honestly validating others, you begin to feel better about yourself.",
+      "who_should_do_it": "Any actor with a negative ego-state. Especially effective before performing or rehearsing when feeling depressed or hopeless.",
+      "why_it_works": "The arbitrary commitment to positivity connects at some point with the seeds of buried positivity. Validation: by giving out sincere compliments, the actor's own ego-state improves.",
+      "technique_type": "instrumental",
+      "related_technique": "ego_preparations",
+      "additional_info": "Validation is a variation that works through validating others rather than focusing on self.",
+      "sources": [
+        {
+          "page": 157,
+          "summary": "Positivity: two approaches — start from genuine positivity and build, or arbitrarily commit to positivity when deeply negative. Validation variation: validate others to improve own ego-state."
+        }
+      ]
+    },
+    "magic_pocket": {
+      "name": "Magic Pocket",
+      "goal": "To build ego-state by imagining that you carry something magnificent in your pocket — using imagination and sensory process to create a profound sense of possession.",
+      "how_to": "Imagine that in one of your pockets you have something magnificent — a studio contract, an Academy Award telegram, keys to a Rolls Royce, a wallet that never runs out, a letter from someone you love. Can be done through simple suggestion or through sense memory. Walk around with your hand in your pocket or patting the outside of it. Allow the belief to grow until you feel totally in possession of the most important thing in your life. The magic aspect is vital — encourage yourself to believe.",
+      "who_should_do_it": "Any actor needing ego elevation. Can be done anywhere — on a movie set, on the street, in a class, at a party.",
+      "why_it_works": "The sustained belief in the magical possession elevates ego-state and produces a sense of confidence and importance that changes behavior.",
+      "technique_type": "instrumental",
+      "related_technique": "ego_preparations",
+      "additional_info": "Can be done through simple suggestion or through full sense memory process.",
+      "sources": [
+        {
+          "page": 159,
+          "summary": "Magic Pocket: imagine something magnificent in your pocket. Encourage belief to grow. Vital that the magic aspect is believed."
+        }
+      ]
+    },
+    "take_your_due": {
+      "name": "Take Your Due",
+      "goal": "To assert the actor's own value and ask for what they deserve, building confidence and self-worth.",
+      "how_to": "Express out loud in words and action all the positive things you feel you have coming to you. Ask for what you want from various people around you. Talk about areas where you feel you have been misunderstood and have not received your due. Make your statement physically as well — standing to full height, taking up rightful space, being flamboyant in gestures if you wish.",
+      "who_should_do_it": "Most effective done in a group or with another person. Any actor suffering from low self-worth or inability to assert themselves.",
+      "why_it_works": "As you do this exercise repeatedly, trust grows. You gain confidence in your ability to make your own statement.",
+      "technique_type": "instrumental",
+      "related_technique": "ego_preparations",
+      "additional_info": "The physical component is important — make the statement with your whole body, not just words.",
+      "sources": [
+        {
+          "page": 155,
+          "summary": "Take Your Due: express all positive things you have coming, ask for what you want, talk about being misunderstood. Physical expression equally important."
+        }
+      ]
+    },
+    "desert_exercise": {
+      "name": "The Desert Exercise",
+      "goal": "An advanced sense memory exercise to create a complex, total environment through progressive sensory accumulation.",
+      "how_to": "You are stranded in the desert. Create all the elements of exposure, exhaustion, thirst, heat, vastness, and isolation. Begin with one element — for instance, heat. Make the room hotter than it is. Add the desert visually, locating the sun. These support each other. It may take two weeks to work up a sweat. Add one element at a time of the total reality. If successful, heat itself may stimulate thirst.",
+      "who_should_do_it": "Actors who have been doing sense memory for a while. Not recommended for beginners. Can also be done as a group improvisation.",
+      "why_it_works": "Progressive sensory accumulation allows one element to support and trigger others, building a total reality that produces genuine physical and emotional responses.",
+      "technique_type": "craft",
+      "related_technique": "sense_memory",
+      "additional_info": "Not recommended for beginners to sense memory. Can be done with a group as an improvisation.",
+      "sources": [
+        {
+          "page": 131,
+          "summary": "Desert Exercise: create total desert environment progressively. Begin with heat, add elements one at a time. May take two weeks to work up a sweat."
+        }
+      ]
+    },
+    "farmer_s_market": {
+      "name": "Farmer's Market",
+      "goal": "To train awareness, observation, and personal point of view by working in a rich public environment filled with sensory stimuli.",
+      "how_to": "Go to a place like a farmer's market — a public setting with abundant sensory stimulation. Observe, Wonder and Perceive everything around you. Take an inventory of all your senses. Notice how you feel about everything you perceive. Develop your personal point of view in relation to what you see, hear, smell, taste, and touch.",
+      "who_should_do_it": "All actors. Part of the Cluster of Four as an awareness preparation. Can be done in any rich sensory environment.",
+      "why_it_works": "A real-world environment provides stimulation that class settings cannot. The richness of public life forces genuine reactions and personal points of view.",
+      "technique_type": "instrumental",
+      "related_technique": "awareness",
+      "additional_info": "Referenced in the book as a key awareness preparation exercise. Also used as preparation for being in specific environments required by a play.",
+      "sources": [
+        {
+          "page": 149,
+          "summary": "Farmer's Market: awareness exercise done in a rich sensory public environment. Part of instrumental preparation for awareness."
+        }
+      ]
+    },
+    "group_vulnerability": {
+      "name": "Group Vulnerability",
+      "goal": "To create a progressively more sensitive, vulnerable atmosphere in a group by sharing emotional experiences, making the group ready for creative work.",
+      "how_to": "Two approaches: (1) One individual shares an emotionally-rich experience with the group. The group identifies with the vulnerability. As more individuals share, the atmosphere becomes progressively more sensitive. (2) The group works simultaneously and individually, privately, for their own choices. The vulnerable responses are infectious — emotion in the room has a snowball effect, feeding on itself.",
+      "who_should_do_it": "Acting class groups and rehearsal groups. Especially effective before doing emotionally demanding material. If in a professional rehearsal, the director should lead off with a vulnerable experience.",
+      "why_it_works": "Vulnerability is contagious — like laughter or tears, the emotional life in the room builds on itself. Creates a collective readiness to go deeper.",
+      "technique_type": "instrumental",
+      "related_technique": "vulnerability_preparations",
+      "additional_info": "Works for classroom or rehearsal settings. Director modeling vulnerability first is especially helpful in professional settings.",
+      "sources": [
+        {
+          "page": 162,
+          "summary": "Group Vulnerability: two approaches — individual sharing or simultaneous private work. Emotion is infectious and builds on itself."
+        }
+      ]
+    },
+    "abandonment": {
+      "name": "Abandonment (and Variations)",
+      "goal": "To purge tension and emotional suppression through physical and vocal release, creating a vulnerable, open state.",
+      "how_to": "Basic Abandonment: let go completely, physically and vocally, expurgating all emotional energies. Variations: Primitive Abandonment — begin with basic primitive rhythmical beat, encourage body to move like a Watusi warrior, let groans and percussive sounds build to a climax of primitive release. Mini-Abandonment — public version, done off by yourself, tension/release of all muscles violently and convulsively. Flip Out — flamboyantly expurgate all emotional energies, joy, hate, love, rage, frustration, verbally, vocally, and physically. Exorcism — push away physically and vocally with 'Get out! Leave me alone!' Violently rid yourself of all people and things that are suppressing you.",
+      "who_should_do_it": "All actors. Mini-Abandonment for public or set situations. Full Abandonment for private or class settings.",
+      "why_it_works": "The purgative nature often brings up a flow of emotionality that leaves the actor shaky and rumbly inside — vulnerable. Clears the system for genuine feeling.",
+      "technique_type": "instrumental",
+      "related_technique": "vulnerability_preparations",
+      "additional_info": "Originally described as an antidote to tension (Chapter 2), also powerful for producing vulnerability. Multiple variations for different situations.",
+      "sources": [
+        {
+          "page": 166,
+          "summary": "Abandonment variations: Primitive Abandonment, Mini-Abandonment, Flip Out, Exorcism. All purgative, producing emotionality and vulnerability."
+        }
+      ]
+    },
+    "pretend": {
+      "name": "Pretend (Self and Two-People)",
+      "goal": "To stretch the imagination by engaging in child-like pretending, creating imaginary circumstances without logic constraints.",
+      "how_to": "Either by yourself or with another person, silently or out loud, pretend whatever pleases you to pretend, as a child would. Solo: talk out loud and go through physical actions supporting the pretend circumstances. Duration: 5 minutes to a whole day in the real world acting out the pretend scenario. Two-people: pretend anything together — an ocean cruise, a long-term relationship, an argument. Both actors feed the reality with more and more imaginary circumstances and physical actions.",
+      "who_should_do_it": "All actors. Good preparation for a scene or to get a relationship going with another actor. Can also be used as a choice in a scene.",
+      "why_it_works": "The spinning of pretense often leads to actual sensory responses — seeing, hearing, tasting, feeling the imaginary objects. Also stretches the actor's belief in imaginary realities.",
+      "technique_type": "both",
+      "related_technique": "imagination_preparations",
+      "additional_info": "Can be used directly as a choice in a scene. Joan used it as a choice in a film scene where she had to pretend a ridiculous centerpiece was an Oscar Award.",
+      "sources": [
+        {
+          "page": 168,
+          "summary": "Pretend: child-like pretending alone or with another person. Spinning pretense leads to actual sensory responses. Can be used as a choice in a scene."
+        }
+      ]
+    }
+  },
+  "recommendations": [
+    {
+      "id": "rec_001",
+      "condition": "Actor is not connected to inner self and cannot make technique work",
+      "recommendation": "Begin with BEING work — Personal Inventory and One-Person BEING — before attempting any craft technique. You cannot teach acting without first establishing the personal nucleus.",
+      "technique_references": [
+        "being_work",
+        "personal_inventory"
+      ],
+      "sources": [
+        {
+          "page": 14,
+          "summary": "Cannot teach person to act who is not connected to inner self."
+        }
+      ]
+    },
+    {
+      "id": "rec_002",
+      "condition": "Actor's work seems clinical, academic, and impersonal despite technical proficiency",
+      "recommendation": "Spend 90% of training time on BEING work — finding who you are — and only 10% on system/technique. The canvas (BEING) must exist before colors (technique) can be applied.",
+      "technique_references": [
+        "being_work"
+      ],
+      "sources": [
+        {
+          "page": 33,
+          "summary": "90% BEING, 10% technique is proper proportion."
+        }
+      ]
+    },
+    {
+      "id": "rec_003",
+      "condition": "Actor hides tension or suppresses it, appearing calm but producing unbelievable work",
+      "recommendation": "Recognize and acknowledge tension rather than suppressing it. Tension is talent — the more you have, the more unexpressed emotion is present. Deal with it directly rather than imposing relaxation over it.",
+      "technique_references": [
+        "therapy_exercises"
+      ],
+      "sources": [
+        {
+          "page": 47,
+          "summary": "Tension is talent. Deal with it rather than suppress."
+        }
+      ]
+    },
+    {
+      "id": "rec_004",
+      "condition": "Actor cannot function without stimulating high tension states (Theatrical Hysteria / Ass Energy)",
+      "recommendation": "Recognize that tension-as-emotion is a substitute for genuine feeling, not genuine feeling itself. Work to distinguish between real emotional experience and manufactured tension through BEING exercises.",
+      "technique_references": [
+        "being_work",
+        "personal_inventory"
+      ],
+      "sources": [
+        {
+          "page": 52,
+          "summary": "Theatrical Hysteria: tension mistaken for emotion. Actor robs self of genuine experience."
+        }
+      ]
+    },
+    {
+      "id": "rec_005",
+      "condition": "Actor has difficulty exposing aspects of themselves onstage",
+      "recommendation": "If you cannot expose it offstage, you cannot expose it onstage. The acting problem is a living problem. Use therapy exercises to address the life problem first.",
+      "technique_references": [
+        "therapy_exercises",
+        "rounds"
+      ],
+      "sources": [
+        {
+          "page": 25,
+          "summary": "Acting problems are life problems. Cannot separate life offstage from life onstage."
+        }
+      ]
+    },
+    {
+      "id": "rec_006",
+      "condition": "Actor begins a scene by getting ready to act rather than from genuine BEING",
+      "recommendation": "Start from where you actually are. Do Personal Inventory to establish real BEING state, then work from that state toward the material's required state through sensory choices and preparations.",
+      "technique_references": [
+        "personal_inventory",
+        "one_person_being",
+        "choice_work"
+      ],
+      "sources": [
+        {
+          "page": 27,
+          "summary": "Go from existing BEING state to state required by material — not from assumed/performed starting point."
+        }
+      ]
+    },
+    {
+      "id": "rec_007",
+      "condition": "Actor's emotional state is far from what the material demands",
+      "recommendation": "Do not try to jump from current state to required state in one step. Move through interim BEING states progressively, using available stimuli and imaginary choices to shift gradually.",
+      "technique_references": [
+        "choice_work",
+        "being_work"
+      ],
+      "sources": [
+        {
+          "page": 36,
+          "summary": "Move through several interim BEING states to bridge gap between current state and required state."
+        }
+      ]
+    },
+    {
+      "id": "rec_008",
+      "condition": "Ego-state is low, producing tension and fear of failure",
+      "recommendation": "Use ego preparations specifically designed to build ego-state quickly. Many exercises in the book address this. High ego-state produces less tension and more ability to function.",
+      "technique_references": [],
+      "sources": [
+        {
+          "page": 49,
+          "summary": "Ego-state is crucial. Low ego-state = high anxiety. Many exercises for quickly building ego-state."
+        }
+      ]
+    },
+    {
+      "id": "rec_009",
+      "condition": "Actor's scene work is good but polished and predictable — missing genuine organic reality",
+      "recommendation": "Do not work for a smooth, conventional performance. Organic reality is bumpy, unpredictable, easily derailed. The work should look rough and sometimes unprofessional by conventional standards. Work from BEING, not from a concept of what the scene should look like.",
+      "technique_references": [
+        "being_work",
+        "one_person_being"
+      ],
+      "sources": [
+        {
+          "page": 34,
+          "summary": "Organic reality is bumpy — real people are bumpy and easily derailed. Slick acting is a conditioned expectation, not truth."
+        }
+      ]
+    },
+    {
+      "id": "rec_010",
+      "condition": "Actor understands sense memory intellectually but cannot make it work",
+      "recommendation": "Sense memory is not an intellectual process — it takes place in the senses, not in the head. Ask specific sensory questions (temperature, texture, not 'hot' or 'rough') and give your senses time to respond. Practice daily for months before expecting consistent results. It must be a way of life, not just a class exercise.",
+      "technique_references": [
+        "sense_memory_exercise",
+        "sensory_inventory"
+      ],
+      "sources": [
+        {
+          "page": 95,
+          "summary": "Most actors confuse sense memory with pantomime and intellectual gymnastics — neither works. Sense memory does not take place in the head. Practice daily."
+        }
+      ]
+    },
+    {
+      "id": "rec_011",
+      "condition": "Actor has chosen a choice for a scene but it is not producing the desired emotional results",
+      "recommendation": "Work for the choice at the cost of the material in rehearsal. If at the end of that exploration the choice has not produced what is needed, adjust or replace the choice. Never stay with a choice that consistently fails. The obligation is clear — the choice is the variable.",
+      "technique_references": [
+        "choice_work",
+        "sense_memory"
+      ],
+      "sources": [
+        {
+          "page": 137,
+          "summary": "If choice does not work, boost it, add to it, or go for another choice altogether. Work for choice at cost of material in rehearsal."
+        }
+      ]
+    },
+    {
+      "id": "rec_012",
+      "condition": "Actor is preparing for a scene but not starting from real BEING — instead manufacturing a performance state",
+      "recommendation": "Always start first with getting to what is — here and now — right or wrong for the role. Only from BEING can you know what you need and select the right preparations. Cannon actor mistake: preparation that fortifies cerebral complexity rather than leading to BEING.",
+      "technique_references": [
+        "being_work",
+        "personal_inventory",
+        "cluster_of_four"
+      ],
+      "sources": [
+        {
+          "page": 143,
+          "summary": "Always start first with getting to what is — here and now. Only from BEING can you know what you need and select right preparations."
+        }
+      ]
+    },
+    {
+      "id": "rec_013",
+      "condition": "Actor does not practice between classes and wonders why their work is not developing",
+      "recommendation": "Daily practice is non-negotiable. Practice daily: relaxation, sensitizing, Personal Inventory, sense memory, BEING exercises, self inventories. Desert your art for one day and it will desert you for three. Writers write, painters paint — actors must have their own daily practice regime.",
+      "technique_references": [
+        "sense_memory_exercise",
+        "personal_inventory",
+        "cluster_of_four",
+        "being_work"
+      ],
+      "sources": [
+        {
+          "page": 146,
+          "summary": "Daily practice is mandatory: relaxation, sensitizing, Personal Inventory, sense memory, BEING exercises, self inventories. Desert your art for one day and it will desert you for three."
+        }
+      ]
+    },
+    {
+      "id": "rec_014",
+      "condition": "Actor needs to play a character who is uptight, closed, or defensive",
+      "recommendation": "First achieve vulnerability and surrender to it before playing the uptight character. The uptight character is often uptight because of vulnerability underneath. Find what is underneath the surface before playing the surface.",
+      "technique_references": [
+        "vulnerability_preparations",
+        "group_vulnerability",
+        "being_work"
+      ],
+      "sources": [
+        {
+          "page": 161,
+          "summary": "Must achieve vulnerability first before playing an uptight character. Must find what is underneath. The uptight bitch might be uptight because of vulnerability underneath."
+        }
+      ]
+    },
+    {
+      "id": "rec_015",
+      "condition": "Actor's ego-state is in the way — feeling not good enough, too old, not talented enough",
+      "recommendation": "Use specific ego preparations matching the ego difficulty. There are at least 75 exercises in this area. Select the one that addresses your specific issue at this moment — physical self-acceptance exercises, positivity, Take Your Due, Sense of Worth, etc. In order to act you must feel you have the right to be where you are.",
+      "technique_references": [
+        "ego_preparations",
+        "positivity_and_validation",
+        "take_your_due"
+      ],
+      "sources": [
+        {
+          "page": 154,
+          "summary": "Actors suffer ego-ailments — whispering you're not good enough, too old, no talent. Use ego preparations to change ego-state. Without self-acceptance, cannot reach talent no matter how much you have."
+        }
+      ]
+    },
+    {
+      "id": "rec_016",
+      "condition": "Scene partners feel disconnected and are not genuinely relating to each other",
+      "recommendation": "Use Two-People BEING before rehearsing — acknowledge tensions, then Observe-Wonder-Perceive each other, then work simple sensory choices in relation to each other. Also try Hold Hands and Look at Each Other, Telepathy, or Rock and Stroke to create genuine connection before working with material.",
+      "technique_references": [
+        "two_people_being",
+        "hold_hands_look_at_each_other",
+        "rock_and_stroke",
+        "observer_wonder_perceive"
+      ],
+      "sources": [
+        {
+          "page": 92,
+          "summary": "Two-People BEING: establish genuine BEING with partner before scene work — acknowledge anxieties, Observe-Wonder-Perceive, work sensory choices."
+        }
+      ]
+    },
+    {
+      "id": "rec_017",
+      "condition": "Actor knows what they want to feel in a scene but cannot get there from cold",
+      "recommendation": "Use a translation process: identify what specific element of the desired emotional state to work for, then translate that to a sensory approach. Build from the ground up — create the physical reality first, then let emotion arise from it. Do not jump directly to the emotional result.",
+      "technique_references": [
+        "sense_memory",
+        "choice_work",
+        "being_work"
+      ],
+      "sources": [
+        {
+          "page": 135,
+          "summary": "Choices requiring sensory translation: identify what produced the feeling, then build sensory reality from the ground up before working for emotional element."
+        }
+      ]
+    },
+    {
+      "id": "rec_018",
+      "condition": "Actor working on material with strong emotional demands (suicide, grief, love) cannot access genuine feeling",
+      "recommendation": "The trip from coffee cups to suicide is long — begin at the beginning. If you can create a cup of coffee so that you can really see, feel, taste, smell, and hear it, you have the same ability to create the objects necessary to make you feel suicidal. The connection between coffee cups and suicide is this same ability applied to different objects.",
+      "technique_references": [
+        "sense_memory_exercise",
+        "evocative_words",
+        "imaginary_monologue"
+      ],
+      "sources": [
+        {
+          "page": 135,
+          "summary": "The ability to create a coffee cup is the same ability needed to create suicidal feelings. The trip from coffee cups to suicide begins at the beginning."
+        }
+      ]
+    }
+  ]
+}
